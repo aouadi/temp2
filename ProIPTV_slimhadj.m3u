@@ -1,0 +1,2379 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TN_---Tunisie---" tvg-logo="http://194.88.104.27/Logo/Tunisie/ProIPTV.png" group-title="Tunisie",TN_---Tunisie---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8001.ts
+#EXTINF:-1 tvg-name="TN_Tunisia.Nat.1" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Tunisia.Nat.1.png" group-title="Tunisie",TN_Tunisia.Nat.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1.ts
+#EXTINF:-1 tvg-name="TN_Tunisia.Nat.2" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Tunisia.Nat.2.png" group-title="Tunisie",TN_Tunisia.Nat.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/2.ts
+#EXTINF:-1 tvg-name="TN_Elhiwar.Ettounsi.TV" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Elhiwar.Ettounsi.TV.png" group-title="Tunisie",TN_Elhiwar.Ettounsi.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/3.ts
+#EXTINF:-1 tvg-name="TN_ATTESSIA.TV" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_ATTESSIA.TV.png" group-title="Tunisie",TN_ATTESSIA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/4.ts
+#EXTINF:-1 tvg-name="TN_Nessma" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Nessma.png" group-title="Tunisie",TN_Nessma
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/5.ts
+#EXTINF:-1 tvg-name="TN_Hannibal" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Hannibal.png" group-title="Tunisie",TN_Hannibal
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/6.ts
+#EXTINF:-1 tvg-name="TN_ALjanoubia" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_ALjanoubia.png" group-title="Tunisie",TN_ALjanoubia
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/7.ts
+#EXTINF:-1 tvg-name="TN_First.TV.TUNISIA" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_First.TV.TUNISIA.png" group-title="Tunisie",TN_First.TV.TUNISIA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/801.ts
+#EXTINF:-1 tvg-name="TN_TELVZA.TV" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_TELVZA.TV.png" group-title="Tunisie",TN_TELVZA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/12.ts
+#EXTINF:-1 tvg-name="TN_TUNISNA" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_TUNISNA.png" group-title="Tunisie",TN_TUNISNA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8.ts
+#EXTINF:-1 tvg-name="TN_M.Tunisia" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_M.Tunisia.png" group-title="Tunisie",TN_M.Tunisia
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/14.ts
+#EXTINF:-1 tvg-name="TN_AL-MUSTAKILA" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_AL-MUSTAKILA.png" group-title="Tunisie",TN_AL-MUSTAKILA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/77.ts
+#EXTINF:-1 tvg-name="TN_ZAYTOONA" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_ZAYTOONA.png" group-title="Tunisie",TN_ZAYTOONA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/9.ts
+#EXTINF:-1 tvg-name="TN_ZITOUNA.HEDAYA" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_ZITOUNA.HEDAYA.png" group-title="Tunisie",TN_ZITOUNA.HEDAYA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/478.ts
+#EXTINF:-1 tvg-name="TN_Al.Insen.TV" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Al.Insen.TV.png" group-title="Tunisie",TN_Al.Insen.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/745.ts
+#EXTINF:-1 tvg-name="TN_Tunisie.Televsion.1" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Tunisie.Televsion.1.png" group-title="Tunisie",TN_Tunisie.Televsion.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/734.ts
+#EXTINF:-1 tvg-name="TN_TNN" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_TNN.png" group-title="Tunisie",TN_TNN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/83.ts
+#EXTINF:-1 tvg-name="TN_Jawhara.FM" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Jawhara.FM.png" group-title="Tunisie",TN_Jawhara.FM
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/89.ts
+#EXTINF:-1 tvg-name="TN_Mosaique.FM" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Mosaique.FM.png" group-title="Tunisie",TN_Mosaique.FM
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/802.ts
+#EXTINF:-1 tvg-name="TN_Chaine.CA" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Chaine.CA.png" group-title="Tunisie",TN_Chaine.CA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/688.ts
+#EXTINF:-1 tvg-name="TN_Chaine.EST" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Chaine.EST.png" group-title="Tunisie",TN_Chaine.EST
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/689.ts
+#EXTINF:-1 tvg-name="TN_Chaine.ESS" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Chaine.ESS.png" group-title="Tunisie",TN_Chaine.ESS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/690.ts
+#EXTINF:-1 tvg-name="TN_Chaine.CSS" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Chaine.CSS.png" group-title="Tunisie",TN_Chaine.CSS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/691.ts
+#EXTINF:-1 tvg-name="TN_Chaine.Evenement" tvg-logo="http://194.88.104.27/Logo/Tunisie/TN_Chaine.Evenement.png" group-title="Tunisie",TN_Chaine.Evenement
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/692.ts
+#EXTINF:-1 tvg-name="AR_---beIN.SPORTS---" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/ProIPTV.png" group-title="Ar beIN SPORTS",AR_---beIN.SPORTS---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8009.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/400.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.News" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.News.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.News
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/110.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.1.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.1.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/111.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.2.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.2.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/112.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.3.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.3.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.3.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/113.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.4.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.4.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.4.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/114.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.5.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.5.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.5.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/115.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.6.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.6.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.6.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/116.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.7.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.7.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.7.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/117.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.8.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.8.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.8.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/118.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.9.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.9.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.9.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/510.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.10.HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.10.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.10.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/511.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.11HD.EN" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.11.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.11HD.EN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/512.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.12.HD.EN" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.12.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.12.HD.EN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/513.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.13.HD.FR" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.13.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.13.HD.FR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/514.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.14.HD.FR" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.14.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.14.HD.FR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/515.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.15.HD.FR" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.15.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.15.HD.FR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/516.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.16.HD.FR" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.16.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.16.HD.FR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/10.ts
+#EXTINF:-1 tvg-name="AR_beIN.SPORTS.17.HD.ES" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.SPORTS.17.HD.png" group-title="Ar beIN SPORTS",AR_beIN.SPORTS.17.HD.ES
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/11.ts
+#EXTINF:-1 tvg-name="AR_beIN.NBA" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.NBA.png" group-title="Ar beIN SPORTS",AR_beIN.NBA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/517.ts
+#EXTINF:-1 tvg-name="AR_beIN.MOVIES.1HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.MOVIES.1HD.png" group-title="Ar beIN SPORTS",AR_beIN.MOVIES.1HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/520.ts
+#EXTINF:-1 tvg-name="AR_beIN.MOVIES.2HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.MOVIES.2HD.png" group-title="Ar beIN SPORTS",AR_beIN.MOVIES.2HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/519.ts
+#EXTINF:-1 tvg-name="AR_beIN.MOVIES.3HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.MOVIES.3HD.png" group-title="Ar beIN SPORTS",AR_beIN.MOVIES.3HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/13.ts
+#EXTINF:-1 tvg-name="AR_beIN.MOVIES.4HD" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beIN.MOVIES.4HD.png" group-title="Ar beIN SPORTS",AR_beIN.MOVIES.4HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/16.ts
+#EXTINF:-1 tvg-name="AR_beJunior" tvg-logo="http://194.88.104.27/Logo/beIN.SPORTS/AR_beJunior.png" group-title="Ar beIN SPORTS",AR_beJunior
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/51.ts
+#EXTINF:-1 tvg-name="FR_---Cinema---" tvg-logo="http://194.88.104.27/Logo/France/ProIPTV.png" group-title="Canalsat Cinema",FR_---Cinema---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8016.ts
+#EXTINF:-1 tvg-name="FR_TF1" tvg-logo="http://194.88.104.27/Logo/France/FR_TF1.png" group-title="Canalsat Cinema",FR_TF1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/207.ts
+#EXTINF:-1 tvg-name="FR_FRANCE.2" tvg-logo="http://194.88.104.27/Logo/France/FR_FRANCE.2.png" group-title="Canalsat Cinema",FR_FRANCE.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/209.ts
+#EXTINF:-1 tvg-name="FR_FRANCE.3" tvg-logo="http://194.88.104.27/Logo/France/FR_FRANCE.3.png" group-title="Canalsat Cinema",FR_FRANCE.3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/210.ts
+#EXTINF:-1 tvg-name="FR_FRANCE.4" tvg-logo="http://194.88.104.27/Logo/France/FR_FRANCE.4.png" group-title="Canalsat Cinema",FR_FRANCE.4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/219.ts
+#EXTINF:-1 tvg-name="FR_FRANCE.5" tvg-logo="http://194.88.104.27/Logo/France/FR_FRANCE.5.png" group-title="Canalsat Cinema",FR_FRANCE.5
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/211.ts
+#EXTINF:-1 tvg-name="FR_FRANCE.O" tvg-logo="http://194.88.104.27/Logo/France/FR_FRANCE.O.png" group-title="Canalsat Cinema",FR_FRANCE.O
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/212.ts
+#EXTINF:-1 tvg-name="FR_M6" tvg-logo="http://194.88.104.27/Logo/France/FR_M6.png" group-title="Canalsat Cinema",FR_M6
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/208.ts
+#EXTINF:-1 tvg-name="FR_CANAL+" tvg-logo="http://194.88.104.27/Logo/France/FR_CANAL+.png" group-title="Canalsat Cinema",FR_CANAL+
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/200.ts
+#EXTINF:-1 tvg-name="FR_CANAL+.CINEMA" tvg-logo="http://194.88.104.27/Logo/France/FR_CANAL+.CINEMA.png" group-title="Canalsat Cinema",FR_CANAL+.CINEMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/201.ts
+#EXTINF:-1 tvg-name="FR_CANAL+.DECALE" tvg-logo="http://194.88.104.27/Logo/France/FR_CANAL+.DECALE.png" group-title="Canalsat Cinema",FR_CANAL+.DECALE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/203.ts
+#EXTINF:-1 tvg-name="FR_CANAL+.FAMILY" tvg-logo="http://194.88.104.27/Logo/France/FR_CANAL+.FAMILY.png" group-title="Canalsat Cinema",FR_CANAL+.FAMILY
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/204.ts
+#EXTINF:-1 tvg-name="FR_CANAL+.SERIES" tvg-logo="http://194.88.104.27/Logo/France/FR_CANAL+.SERIES.png" group-title="Canalsat Cinema",FR_CANAL+.SERIES
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/205.ts
+#EXTINF:-1 tvg-name="FR_CANAL+.SPORT" tvg-logo="http://194.88.104.27/Logo/France/FR_CANAL+.SPORT.png" group-title="Canalsat Cinema",FR_CANAL+.SPORT
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/202.ts
+#EXTINF:-1 tvg-name="FR_CINE+.CLASSIC" tvg-logo="http://194.88.104.27/Logo/France/FR_CINE+.CLASSIC.png" group-title="Canalsat Cinema",FR_CINE+.CLASSIC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/623.ts
+#EXTINF:-1 tvg-name="FR_CINE+.EMOTION" tvg-logo="http://194.88.104.27/Logo/France/FR_CINE+.EMOTION.png" group-title="Canalsat Cinema",FR_CINE+.EMOTION
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/741.ts
+#EXTINF:-1 tvg-name="FR_CINE+.FAMIZ" tvg-logo="http://194.88.104.27/Logo/France/FR_CINE+.FAMIZ.png" group-title="Canalsat Cinema",FR_CINE+.FAMIZ
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/624.ts
+#EXTINF:-1 tvg-name="FR_CINE+.FRISSON" tvg-logo="http://194.88.104.27/Logo/France/FR_CINE+.FRISSON.png" group-title="Canalsat Cinema",FR_CINE+.FRISSON
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/270.ts
+#EXTINF:-1 tvg-name="FR_CINE+.PREMIER" tvg-logo="http://194.88.104.27/Logo/France/FR_CINE+.PREMIER.png" group-title="Canalsat Cinema",FR_CINE+.PREMIER
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/275.ts
+#EXTINF:-1 tvg-name="FR_CINE.FX" tvg-logo="http://194.88.104.27/Logo/France/FR_CINE.FX.png" group-title="Canalsat Cinema",FR_CINE.FX
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/316.ts
+#EXTINF:-1 tvg-name="FR_CINE.POLAR" tvg-logo="http://194.88.104.27/Logo/France/FR_CINE.POLAR.png" group-title="Canalsat Cinema",FR_CINE.POLAR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/317.ts
+#EXTINF:-1 tvg-name="FR_OCS.CHOC" tvg-logo="http://194.88.104.27/Logo/France/FR_OCS.CHOC.png" group-title="Canalsat Cinema",FR_OCS.CHOC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/226.ts
+#EXTINF:-1 tvg-name="FR_OCS.CITY" tvg-logo="http://194.88.104.27/Logo/France/FR_OCS.CITY.png" group-title="Canalsat Cinema",FR_OCS.CITY
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/259.ts
+#EXTINF:-1 tvg-name="FR_OCS.GEANTS" tvg-logo="http://194.88.104.27/Logo/France/FR_OCS.GEANTS.png" group-title="Canalsat Cinema",FR_OCS.GEANTS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/625.ts
+#EXTINF:-1 tvg-name="FR_OCS.MAX" tvg-logo="http://194.88.104.27/Logo/France/FR_OCS.MAX.png" group-title="Canalsat Cinema",FR_OCS.MAX
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/626.ts
+#EXTINF:-1 tvg-name="FR_13EME.RUE" tvg-logo="http://194.88.104.27/Logo/France/FR_13EME.RUE.png" group-title="Canalsat Cinema",FR_13EME.RUE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/256.ts
+#EXTINF:-1 tvg-name="FR_6TER" tvg-logo="http://194.88.104.27/Logo/France/FR_6TER.png" group-title="Canalsat Cinema",FR_6TER
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/262.ts
+#EXTINF:-1 tvg-name="FR_AB1" tvg-logo="http://194.88.104.27/Logo/France/FR_AB1.png" group-title="Canalsat Cinema",FR_AB1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/284.ts
+#EXTINF:-1 tvg-name="FR_AB3" tvg-logo="http://194.88.104.27/Logo/France/FR_AB3.png" group-title="Canalsat Cinema",FR_AB3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/291.ts
+#EXTINF:-1 tvg-name="FR_ACTION" tvg-logo="http://194.88.104.27/Logo/France/FR_ACTION.png" group-title="Canalsat Cinema",FR_ACTION
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/318.ts
+#EXTINF:-1 tvg-name="FR_ARTE" tvg-logo="http://194.88.104.27/Logo/France/FR_ARTE.png" group-title="Canalsat Cinema",FR_ARTE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/216.ts
+#EXTINF:-1 tvg-name="FR_C8" tvg-logo="http://194.88.104.27/Logo/France/FR_C8.png" group-title="Canalsat Cinema",FR_C8
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/223.ts
+#EXTINF:-1 tvg-name="FR_Cherie.25" tvg-logo="http://194.88.104.27/Logo/France/FR_Cherie.25.png" group-title="Canalsat Cinema",FR_Cherie.25
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/319.ts
+#EXTINF:-1 tvg-name="FR_COMEDIE+" tvg-logo="http://194.88.104.27/Logo/France/FR_COMEDIE+.png" group-title="Canalsat Cinema",FR_COMEDIE+
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/264.ts
+#EXTINF:-1 tvg-name="FR_CSTAR" tvg-logo="http://194.88.104.27/Logo/France/FR_CSTAR.png" group-title="Canalsat Cinema",FR_CSTAR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/228.ts
+#EXTINF:-1 tvg-name="FR_HD1" tvg-logo="http://194.88.104.27/Logo/France/FR_HD1.png" group-title="Canalsat Cinema",FR_HD1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/258.ts
+#EXTINF:-1 tvg-name="FR_NRJ.12" tvg-logo="http://194.88.104.27/Logo/France/FR_NRJ.12.png" group-title="Canalsat Cinema",FR_NRJ.12
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/214.ts
+#EXTINF:-1 tvg-name="FR_NT1" tvg-logo="http://194.88.104.27/Logo/France/FR_NT1.png" group-title="Canalsat Cinema",FR_NT1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/213.ts
+#EXTINF:-1 tvg-name="FR_NUMERO.23" tvg-logo="http://194.88.104.27/Logo/France/FR_NUMERO.23.png" group-title="Canalsat Cinema",FR_NUMERO.23
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/320.ts
+#EXTINF:-1 tvg-name="FR_PARAMOUNT.CHANNEL" tvg-logo="http://194.88.104.27/Logo/France/FR_PARAMOUNT.CHANNEL.png" group-title="Canalsat Cinema",FR_PARAMOUNT.CHANNEL
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/321.ts
+#EXTINF:-1 tvg-name="FR_PARIS.PREMIERE" tvg-logo="http://194.88.104.27/Logo/France/FR_PARIS.PREMIERE.png" group-title="Canalsat Cinema",FR_PARIS.PREMIERE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/274.ts
+#EXTINF:-1 tvg-name="FR_RTL9.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_RTL9.HD.png" group-title="Canalsat Cinema",FR_RTL9.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/282.ts
+#EXTINF:-1 tvg-name="FR_Serie.Club.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_Serie.Club.HD.png" group-title="Canalsat Cinema",FR_Serie.Club.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/233.ts
+#EXTINF:-1 tvg-name="FR_SYFY" tvg-logo="http://194.88.104.27/Logo/France/FR_SYFY.png" group-title="Canalsat Cinema",FR_SYFY
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/237.ts
+#EXTINF:-1 tvg-name="FR_TCM.CINEMA" tvg-logo="http://194.88.104.27/Logo/France/FR_TCM.CINEMA.png" group-title="Canalsat Cinema",FR_TCM.CINEMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/627.ts
+#EXTINF:-1 tvg-name="FR_TEVA" tvg-logo="http://194.88.104.27/Logo/France/FR_TEVA.png" group-title="Canalsat Cinema",FR_TEVA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/230.ts
+#EXTINF:-1 tvg-name="FR_TMC" tvg-logo="http://194.88.104.27/Logo/France/FR_TMC.png" group-title="Canalsat Cinema",FR_TMC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/217.ts
+#EXTINF:-1 tvg-name="FR_TV.BREIZH" tvg-logo="http://194.88.104.27/Logo/France/FR_TV.BREIZH.png" group-title="Canalsat Cinema",FR_TV.BREIZH
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/322.ts
+#EXTINF:-1 tvg-name="FR_W9" tvg-logo="http://194.88.104.27/Logo/France/FR_W9.png" group-title="Canalsat Cinema",FR_W9
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/220.ts
+#EXTINF:-1 tvg-name="FR_A.La.Carte.01" tvg-logo="http://194.88.104.27/Logo/France/FR_A.La.Carte.01.png" group-title="Canalsat Cinema",FR_A.La.Carte.01
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/693.ts
+#EXTINF:-1 tvg-name="FR_A.La.Carte.02" tvg-logo="http://194.88.104.27/Logo/France/FR_A.La.Carte.02.png" group-title="Canalsat Cinema",FR_A.La.Carte.02
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/694.ts
+#EXTINF:-1 tvg-name="FR_A.La.Carte.03" tvg-logo="http://194.88.104.27/Logo/France/FR_A.La.Carte.03.png" group-title="Canalsat Cinema",FR_A.La.Carte.03
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/695.ts
+#EXTINF:-1 tvg-name="FR_A.La.Carte.04" tvg-logo="http://194.88.104.27/Logo/France/FR_A.La.Carte.04.png" group-title="Canalsat Cinema",FR_A.La.Carte.04
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/696.ts
+#EXTINF:-1 tvg-name="FR_A.La.Carte.05" tvg-logo="http://194.88.104.27/Logo/France/FR_A.La.Carte.05.png" group-title="Canalsat Cinema",FR_A.La.Carte.05
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/697.ts
+#EXTINF:-1 tvg-name="FR_A.La.Carte.06" tvg-logo="http://194.88.104.27/Logo/France/FR_A.La.Carte.06.png" group-title="Canalsat Cinema",FR_A.La.Carte.06
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/698.ts
+#EXTINF:-1 tvg-name="FR_A.La.Carte.07" tvg-logo="http://194.88.104.27/Logo/France/FR_A.La.Carte.07.png" group-title="Canalsat Cinema",FR_A.La.Carte.07
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/699.ts
+#EXTINF:-1 tvg-name="FR_A.La.Carte.08" tvg-logo="http://194.88.104.27/Logo/France/FR_A.La.Carte.08.png" group-title="Canalsat Cinema",FR_A.La.Carte.08
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/711.ts
+#EXTINF:-1 tvg-name="FR_A.La.Carte.09" tvg-logo="http://194.88.104.27/Logo/France/FR_A.La.Carte.09.png" group-title="Canalsat Cinema",FR_A.La.Carte.09
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/728.ts
+#EXTINF:-1 tvg-name="FR_A.La.Carte.10" tvg-logo="http://194.88.104.27/Logo/France/FR_A.La.Carte.10.png" group-title="Canalsat Cinema",FR_A.La.Carte.10
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/730.ts
+#EXTINF:-1 tvg-name="FR_---Documentaire---" tvg-logo="http://194.88.104.27/Logo/France/ProIPTV.png" group-title="Canalsat Doc",FR_---Documentaire---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8017.ts
+#EXTINF:-1 tvg-name="FR_ANIMAUX.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_ANIMAUX.HD.png" group-title="Canalsat Doc",FR_ANIMAUX.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/277.ts
+#EXTINF:-1 tvg-name="FR_CHASSE.ET.PECHE" tvg-logo="http://194.88.104.27/Logo/France/FR_CHASSE.ET.PECHE.png" group-title="Canalsat Doc",FR_CHASSE.ET.PECHE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/283.ts
+#EXTINF:-1 tvg-name="FR_DISCOVERY.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_DISCOVERY.HD.png" group-title="Canalsat Doc",FR_DISCOVERY.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/241.ts
+#EXTINF:-1 tvg-name="FR_DISCOVERY.SCIENCES" tvg-logo="http://194.88.104.27/Logo/France/FR_DISCOVERY.SCIENCES.png" group-title="Canalsat Doc",FR_DISCOVERY.SCIENCES
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/229.ts
+#EXTINF:-1 tvg-name="FR_E!" tvg-logo="http://194.88.104.27/Logo/France/FR_E!.png" group-title="Canalsat Doc",FR_E!
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/628.ts
+#EXTINF:-1 tvg-name="FR_NAT.GEO.WILD.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_NAT.GEO.WILD.HD.png" group-title="Canalsat Doc",FR_NAT.GEO.WILD.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/238.ts
+#EXTINF:-1 tvg-name="FR_NATIONAL.GEO.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_NATIONAL.GEO.HD.png" group-title="Canalsat Doc",FR_NATIONAL.GEO.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/235.ts
+#EXTINF:-1 tvg-name="FR_NON.STOP.PEOPLE" tvg-logo="http://194.88.104.27/Logo/France/FR_NON.STOP.PEOPLE.png" group-title="Canalsat Doc",FR_NON.STOP.PEOPLE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/323.ts
+#EXTINF:-1 tvg-name="FR_Planete+.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_Planete+.HD.png" group-title="Canalsat Doc",FR_Planete+.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/234.ts
+#EXTINF:-1 tvg-name="FR_PLANETE+.CI" tvg-logo="http://194.88.104.27/Logo/France/FR_PLANETE+.CI.png" group-title="Canalsat Doc",FR_PLANETE+.CI
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/629.ts
+#EXTINF:-1 tvg-name="FR_PLANETE+.THALASSA" tvg-logo="http://194.88.104.27/Logo/France/FR_PLANETE+.THALASSA.png" group-title="Canalsat Doc",FR_PLANETE+.THALASSA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/225.ts
+#EXTINF:-1 tvg-name="FR_RMC.Decouverte" tvg-logo="http://194.88.104.27/Logo/France/FR_RMC.Decouverte.png" group-title="Canalsat Doc",FR_RMC.Decouverte
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/739.ts
+#EXTINF:-1 tvg-name="FR_Science.et.Vie" tvg-logo="http://194.88.104.27/Logo/France/FR_Science.et.Vie.png" group-title="Canalsat Doc",FR_Science.et.Vie
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/278.ts
+#EXTINF:-1 tvg-name="FR_TEVA" tvg-logo="http://194.88.104.27/Logo/France/FR_TEVA.png" group-title="Canalsat Doc",FR_TEVA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/630.ts
+#EXTINF:-1 tvg-name="FR_toute.L.Histoire" tvg-logo="http://194.88.104.27/Logo/France/FR_toute.L.Histoire.png" group-title="Canalsat Doc",FR_toute.L.Histoire
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/280.ts
+#EXTINF:-1 tvg-name="FR_TREK" tvg-logo="http://194.88.104.27/Logo/France/FR_TREK.png" group-title="Canalsat Doc",FR_TREK
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/279.ts
+#EXTINF:-1 tvg-name="FR_Ushuaia.Tv.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_Ushuaia.Tv.HD.png" group-title="Canalsat Doc",FR_Ushuaia.Tv.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/242.ts
+#EXTINF:-1 tvg-name="FR_Voyage.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_Voyage.HD.png" group-title="Canalsat Doc",FR_Voyage.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/236.ts
+#EXTINF:-1 tvg-name="FR_---Sports---" tvg-logo="http://194.88.104.27/Logo/France/ProIPTV.png" group-title="Canalsat Sports",FR_---Sports---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8018.ts
+#EXTINF:-1 tvg-name="FR_AB.MOTEURS" tvg-logo="http://194.88.104.27/Logo/France/FR_AB.MOTEURS.png" group-title="Canalsat Sports",FR_AB.MOTEURS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/324.ts
+#EXTINF:-1 tvg-name="FR_beIN.SPORTS.1.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_beIN.SPORTS.1.HD.png" group-title="Canalsat Sports",FR_beIN.SPORTS.1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/119.ts
+#EXTINF:-1 tvg-name="FR_beIN.SPORTS.2.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_beIN.SPORTS.2.HD.png" group-title="Canalsat Sports",FR_beIN.SPORTS.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/120.ts
+#EXTINF:-1 tvg-name="FR_beIN.SPORTS.3.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_beIN.SPORTS.3.HD.png" group-title="Canalsat Sports",FR_beIN.SPORTS.3.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/206.ts
+#EXTINF:-1 tvg-name="FR_SFR.SPORT.1.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_SFR.SPORT.1.HD.png" group-title="Canalsat Sports",FR_SFR.SPORT.1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/685.ts
+#EXTINF:-1 tvg-name="FR_SFR.SPORT.2.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_SFR.SPORT.2.HD.png" group-title="Canalsat Sports",FR_SFR.SPORT.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/686.ts
+#EXTINF:-1 tvg-name="FR_SFR.SPORT.3.HD" tvg-logo="http://194.88.104.27/Logo/France/	FR_SFR.SPORT.3.HD.png" group-title="Canalsat Sports",FR_SFR.SPORT.3.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/687.ts
+#EXTINF:-1 tvg-name="FR_EQUIDIA.LIVE" tvg-logo="http://194.88.104.27/Logo/France/FR_EQUIDIA.LIVE.png" group-title="Canalsat Sports",FR_EQUIDIA.LIVE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/268.ts
+#EXTINF:-1 tvg-name="FR_EUROSPORT.1" tvg-logo="http://194.88.104.27/Logo/France/FR_EUROSPORT.1.png" group-title="Canalsat Sports",FR_EUROSPORT.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/743.ts
+#EXTINF:-1 tvg-name="FR_EUROSPORT.2" tvg-logo="http://194.88.104.27/Logo/France/FR_EUROSPORT.2.png" group-title="Canalsat Sports",FR_EUROSPORT.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/744.ts
+#EXTINF:-1 tvg-name="FR_FOOT+.24\/24" tvg-logo="http://194.88.104.27/Logo/France/FR_FOOT+.png" group-title="Canalsat Sports",FR_FOOT+.24\/24
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/920.ts
+#EXTINF:-1 tvg-name="FR_Golf.Channel" tvg-logo="http://194.88.104.27/Logo/France/FR_Golf.Channel.png" group-title="Canalsat Sports",FR_Golf.Channel
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/290.ts
+#EXTINF:-1 tvg-name="FR_INFOSPORT+" tvg-logo="http://194.88.104.27/Logo/France/FR_INFOSPORT+.png" group-title="Canalsat Sports",FR_INFOSPORT+
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/325.ts
+#EXTINF:-1 tvg-name="FR_L.EQUIPE.21" tvg-logo="http://194.88.104.27/Logo/France/FR_L.EQUIPE.21.png" group-title="Canalsat Sports",FR_L.EQUIPE.21
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/267.ts
+#EXTINF:-1 tvg-name="FR_---Disney---" tvg-logo="http://194.88.104.27/Logo/France/ProIPTV.png" group-title="Canalsat Disney",FR_---Disney---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8019.ts
+#EXTINF:-1 tvg-name="FR_BOOMERANG" tvg-logo="http://194.88.104.27/Logo/France/FR_BOOMERANG.png" group-title="Canalsat Disney",FR_BOOMERANG
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/326.ts
+#EXTINF:-1 tvg-name="FR_CANALJ.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_CANALJ.HD.png" group-title="Canalsat Disney",FR_CANALJ.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/260.ts
+#EXTINF:-1 tvg-name="FR_Cartoon.Network.FR.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_Cartoon.Network.FR.HD.png" group-title="Canalsat Disney",FR_Cartoon.Network.FR.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/240.ts
+#EXTINF:-1 tvg-name="FR_DISNEY.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_DISNEY.HD.png" group-title="Canalsat Disney",FR_DISNEY.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/265.ts
+#EXTINF:-1 tvg-name="FR_DISNEY.CINEMA" tvg-logo="http://194.88.104.27/Logo/France/FR_DISNEY.CINEMA.png" group-title="Canalsat Disney",FR_DISNEY.CINEMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/631.ts
+#EXTINF:-1 tvg-name="FR_DISNEY.JUNIOR.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_DISNEY.JUNIOR.HD.png" group-title="Canalsat Disney",FR_DISNEY.JUNIOR.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/257.ts
+#EXTINF:-1 tvg-name="FR_DISNEY.XD" tvg-logo="http://194.88.104.27/Logo/France/FR_DISNEY.XD.png" group-title="Canalsat Disney",FR_DISNEY.XD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/239.ts
+#EXTINF:-1 tvg-name="FR_GAME.ONE" tvg-logo="http://194.88.104.27/Logo/France/FR_GAME.ONE.png" group-title="Canalsat Disney",FR_GAME.ONE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/327.ts
+#EXTINF:-1 tvg-name="FR_GULLI" tvg-logo="http://194.88.104.27/Logo/France/FR_GULLI.png" group-title="Canalsat Disney",FR_GULLI
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/222.ts
+#EXTINF:-1 tvg-name="FR_MANGAS" tvg-logo="http://194.88.104.27/Logo/France/FR_MANGAS.png" group-title="Canalsat Disney",FR_MANGAS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/281.ts
+#EXTINF:-1 tvg-name="FR_NICKELODEON" tvg-logo="http://194.88.104.27/Logo/France/FR_NICKELODEON.png" group-title="Canalsat Disney",FR_NICKELODEON
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/328.ts
+#EXTINF:-1 tvg-name="FR_NICKELODEON.4TEEN" tvg-logo="http://194.88.104.27/Logo/France/FR_NICKELODEON.4TEEN.png" group-title="Canalsat Disney",FR_NICKELODEON.4TEEN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/329.ts
+#EXTINF:-1 tvg-name="FR_NICKELODEON.JR" tvg-logo="http://194.88.104.27/Logo/France/FR_NICKELODEON.JR.png" group-title="Canalsat Disney",FR_NICKELODEON.JR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/330.ts
+#EXTINF:-1 tvg-name="FR_PIWI+" tvg-logo="http://194.88.104.27/Logo/France/FR_PIWI+.png" group-title="Canalsat Disney",FR_PIWI+
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/331.ts
+#EXTINF:-1 tvg-name="FR_TELETOON+" tvg-logo="http://194.88.104.27/Logo/France/FR_TELETOON+.png" group-title="Canalsat Disney",FR_TELETOON+
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/276.ts
+#EXTINF:-1 tvg-name="FR_TIJI" tvg-logo="http://194.88.104.27/Logo/France/FR_TIJI.png" group-title="Canalsat Disney",FR_TIJI
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/332.ts
+#EXTINF:-1 tvg-name="FR_---News---" tvg-logo="http://194.88.104.27/Logo/France/ProIPTV.png" group-title="Canalsat News",FR_---News---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8020.ts
+#EXTINF:-1 tvg-name="FR_BFM" tvg-logo="http://194.88.104.27/Logo/France/FR_BFM.png" group-title="Canalsat News",FR_BFM
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/218.ts
+#EXTINF:-1 tvg-name="FR_BFM.Business" tvg-logo="http://194.88.104.27/Logo/France/FR_BFM.Business.png" group-title="Canalsat News",FR_BFM.Business
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/263.ts
+#EXTINF:-1 tvg-name="FR_France.24" tvg-logo="http://194.88.104.27/Logo/France/FR_France.24.png" group-title="Canalsat News",FR_France.24
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/498.ts
+#EXTINF:-1 tvg-name="FR_iTELE" tvg-logo="http://194.88.104.27/Logo/France/FR_iTELE.png" group-title="Canalsat News",FR_iTELE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/333.ts
+#EXTINF:-1 tvg-name="FR_LCI" tvg-logo="http://194.88.104.27/Logo/France/FR_LCI.png" group-title="Canalsat News",FR_LCI
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/334.ts
+#EXTINF:-1 tvg-name="FR_LCP" tvg-logo="http://194.88.104.27/Logo/France/FR_LCP.png" group-title="Canalsat News",FR_LCP
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/245.ts
+#EXTINF:-1 tvg-name="FR_---Music---" tvg-logo="http://194.88.104.27/Logo/France/ProIPTV.png" group-title="Canalsat Music",FR_---Music---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8021.ts
+#EXTINF:-1 tvg-name="FR_M6.MUSIC" tvg-logo="http://194.88.104.27/Logo/France/FR_M6.MUSIC.png" group-title="Canalsat Music",FR_M6.MUSIC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/632.ts
+#EXTINF:-1 tvg-name="FR_MCM" tvg-logo="http://194.88.104.27/Logo/France/FR_MCM.png" group-title="Canalsat Music",FR_MCM
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/335.ts
+#EXTINF:-1 tvg-name="FR_MTV.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_MTV.HD.png" group-title="Canalsat Music",FR_MTV.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/224.ts
+#EXTINF:-1 tvg-name="FR_MTV.HITS" tvg-logo="http://194.88.104.27/Logo/France/FR_MTV.HITS.png" group-title="Canalsat Music",FR_MTV.HITS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/336.ts
+#EXTINF:-1 tvg-name="FR_Nina.TV" tvg-logo="http://194.88.104.27/Logo/France/FR_Nina.TV.png" group-title="Canalsat Music",FR_Nina.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/337.ts
+#EXTINF:-1 tvg-name="FR_Radio.105.TV" tvg-logo="http://194.88.104.27/Logo/France/FR_Radio.105.TV.png" group-title="Canalsat Music",FR_Radio.105.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/633.ts
+#EXTINF:-1 tvg-name="FR_Virgin.TV" tvg-logo="http://194.88.104.27/Logo/France/FR_Virgin.TV.png" group-title="Canalsat Music",FR_Virgin.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/634.ts
+#EXTINF:-1 tvg-name="FR_---Suisse---" tvg-logo="http://194.88.104.27/Logo/France/ProIPTV.png" group-title="Suisse",FR_---Suisse---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8022.ts
+#EXTINF:-1 tvg-name="FR_RTS.Un.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_RTS.Un.HD.png" group-title="Suisse",FR_RTS.Un.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/912.ts
+#EXTINF:-1 tvg-name="FR_RTS.Deux.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_RTS.Deux.HD.png" group-title="Suisse",FR_RTS.Deux.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/913.ts
+#EXTINF:-1 tvg-name="FR_SRF.1.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_SRF.1.HD.png" group-title="Suisse",FR_SRF.1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/910.ts
+#EXTINF:-1 tvg-name="FR_SRF.zwei.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_SRF.zwei.HD.png" group-title="Suisse",FR_SRF.zwei.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/911.ts
+#EXTINF:-1 tvg-name="FR_RTSI1" tvg-logo="http://194.88.104.27/Logo/France/FR_RTSI1.png" group-title="Suisse",FR_RTSI1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1344.ts
+#EXTINF:-1 tvg-name="FR_RTSI2" tvg-logo="http://194.88.104.27/Logo/France/FR_RTSI2.png" group-title="Suisse",FR_RTSI2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1345.ts
+#EXTINF:-1 tvg-name="FR_---Telesat.Belgique---" tvg-logo="http://194.88.104.27/Logo/France/ProIPTV.png" group-title="Belgique",FR_---Telesat.Belgique---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8023.ts
+#EXTINF:-1 tvg-name="FR_La.Une.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_La.Une.HD.png" group-title="Belgique",FR_La.Une.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/822.ts
+#EXTINF:-1 tvg-name="FR_La.Deux" tvg-logo="http://194.88.104.27/Logo/France/FR_La.Deux.png" group-title="Belgique",FR_La.Deux
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/819.ts
+#EXTINF:-1 tvg-name="FR_La.Trois" tvg-logo="http://194.88.104.27/Logo/France/FR_La.Trois.png" group-title="Belgique",FR_La.Trois
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/821.ts
+#EXTINF:-1 tvg-name="FR_Club-RTL" tvg-logo="http://194.88.104.27/Logo/France/FR_Club-RTL.png" group-title="Belgique",FR_Club-RTL
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/848.ts
+#EXTINF:-1 tvg-name="FR_Plug-RTL" tvg-logo="http://194.88.104.27/Logo/France/FR_Plug-RTL.png" group-title="Belgique",FR_Plug-RTL
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/836.ts
+#EXTINF:-1 tvg-name="FR_RTL-TVi.HD" tvg-logo="http://194.88.104.27/Logo/France/FR_RTL-TVi.HD.png" group-title="Belgique",FR_RTL-TVi.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/837.ts
+#EXTINF:-1 tvg-name="AL_---Algerie---" tvg-logo="http://194.88.104.27/Logo/Algerie/ProIPTV.png" group-title="Algerie",AL_---Algerie---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8002.ts
+#EXTINF:-1 tvg-name="AL_A3" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_A3.png" group-title="Algerie",AL_A3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/137.ts
+#EXTINF:-1 tvg-name="AL_Al.Magharibia" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Al.Magharibia.png" group-title="Algerie",AL_Al.Magharibia
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/172.ts
+#EXTINF:-1 tvg-name="AL_Al.Magharibia.Two" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Al.Magharibia.Two.png" group-title="Algerie",AL_Al.Magharibia.Two
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/780.ts
+#EXTINF:-1 tvg-name="AL_BAHIA.TV" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_BAHIA.TV.png" group-title="Algerie",AL_BAHIA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/98.ts
+#EXTINF:-1 tvg-name="AL_Berbere.Jeunesse" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Berbere.Jeunesse.png" group-title="Algerie",AL_Berbere.Jeunesse
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1010.ts
+#EXTINF:-1 tvg-name="AL_Berbere.Music" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Berbere.Music.png" group-title="Algerie",AL_Berbere.Music
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1011.ts
+#EXTINF:-1 tvg-name="AL_Berbere.TV" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Berbere.TV.png" group-title="Algerie",AL_Berbere.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1012.ts
+#EXTINF:-1 tvg-name="AL_BZAF.TV" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_BZAF.TV.png" group-title="Algerie",AL_BZAF.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/849.ts
+#EXTINF:-1 tvg-name="AL_CANAL.ALGERIE" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_CANAL.ALGERIE.png" group-title="Algerie",AL_CANAL.ALGERIE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/60.ts
+#EXTINF:-1 tvg-name="AL_Coran.TV" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Coran.TV.png" group-title="Algerie",AL_Coran.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/152.ts
+#EXTINF:-1 tvg-name="AL_Dzair.24" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Dzair.24.png" group-title="Algerie",AL_Dzair.24
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/243.ts
+#EXTINF:-1 tvg-name="AL_Dzair.News" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Dzair.News.png" group-title="Algerie",AL_Dzair.News
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/156.ts
+#EXTINF:-1 tvg-name="AL_Dzair.TV" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Dzair.TV.png" group-title="Algerie",AL_Dzair.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/157.ts
+#EXTINF:-1 tvg-name="AL_Echorouk.benna.TV" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Echorouk.benna.TV.png" group-title="Algerie",AL_Echorouk.benna.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/266.ts
+#EXTINF:-1 tvg-name="AL_Echorouk.TV.HD" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Echorouk.TV.HD.png" group-title="Algerie",AL_Echorouk.TV.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/292.ts
+#EXTINF:-1 tvg-name="AL_Echourouk.News" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Echourouk.News.png" group-title="Algerie",AL_Echourouk.News
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/295.ts
+#EXTINF:-1 tvg-name="AL_El.adjwaa.TV" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_El.adjwaa.TV.png" group-title="Algerie",AL_El.adjwaa.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/306.ts
+#EXTINF:-1 tvg-name="AL_El.Fadjr.TV.DZ" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_El.Fadjr.TV.DZ.png" group-title="Algerie",AL_El.Fadjr.TV.DZ
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/847.ts
+#EXTINF:-1 tvg-name="AL_El.Heddaf.TV" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_El.Heddaf.TV.png" group-title="Algerie",AL_El.Heddaf.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/191.ts
+#EXTINF:-1 tvg-name="AL_EL.KHABAR.KBC.Algeria" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_EL.KHABAR.KBC.Algeria.png" group-title="Algerie",AL_EL.KHABAR.KBC.Algeria
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/791.ts
+#EXTINF:-1 tvg-name="AL_EL-DJAZAIRIA" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_EL-DJAZAIRIA.png" group-title="Algerie",AL_EL-DJAZAIRIA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/496.ts
+#EXTINF:-1 tvg-name="AL_Ennahar.Laki." tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Ennahar.Laki..png" group-title="Algerie",AL_Ennahar.Laki.
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/721.ts
+#EXTINF:-1 tvg-name="AL_ENNAHAR.TV" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_ENNAHAR.TV.png" group-title="Algerie",AL_ENNAHAR.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/724.ts
+#EXTINF:-1 tvg-name="AL_Numidia.News.TV" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Numidia.News.TV.png" group-title="Algerie",AL_Numidia.News.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/474.ts
+#EXTINF:-1 tvg-name="AL_Sahara.tv.algeria" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_Sahara.tv.algeria.png" group-title="Algerie",AL_Sahara.tv.algeria
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/700.ts
+#EXTINF:-1 tvg-name="AL_TV.TAMAZIGHT" tvg-logo="http://194.88.104.27/Logo/Algerie/AL_TV.TAMAZIGHT.png" group-title="Algerie",AL_TV.TAMAZIGHT
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/735.ts
+#EXTINF:-1 tvg-name="LB_---Libye---" tvg-logo="" group-title="Libye",LB_---Libye---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8003.ts
+#EXTINF:-1 tvg-name="LB_AKH.TV" tvg-logo="" group-title="Libye",LB_AKH.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/477.ts
+#EXTINF:-1 tvg-name="LB_Libya.Alhrar" tvg-logo="" group-title="Libye",LB_Libya.Alhrar
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/476.ts
+#EXTINF:-1 tvg-name="LB_LIBYA.ALMARAH" tvg-logo="" group-title="Libye",LB_LIBYA.ALMARAH
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/338.ts
+#EXTINF:-1 tvg-name="LB_LIBYA.ALMOSTAQBAL.HD" tvg-logo="" group-title="Libye",LB_LIBYA.ALMOSTAQBAL.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/339.ts
+#EXTINF:-1 tvg-name="LB_LIBYA.TV" tvg-logo="" group-title="Libye",LB_LIBYA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/499.ts
+#EXTINF:-1 tvg-name="LB_Libya.One" tvg-logo="" group-title="Libye",LB_Libya.One
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/467.ts
+#EXTINF:-1 tvg-name="LB_MISURATA.TV" tvg-logo="" group-title="Libye",LB_MISURATA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/452.ts
+#EXTINF:-1 tvg-name="MA_---Maroc---" tvg-logo="" group-title="Maroc",MA_---Maroc---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8004.ts
+#EXTINF:-1 tvg-name="MA_2M.Maroc" tvg-logo="" group-title="Maroc",MA_2M.Maroc
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/121.ts
+#EXTINF:-1 tvg-name="MA_Al.Aoula.Inter+L" tvg-logo="" group-title="Maroc",MA_Al.Aoula.Inter+L
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/611.ts
+#EXTINF:-1 tvg-name="MA_Al.Aoula.Inter.HD" tvg-logo="" group-title="Maroc",MA_Al.Aoula.Inter.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/729.ts
+#EXTINF:-1 tvg-name="MA_Al.Maghribia" tvg-logo="" group-title="Maroc",MA_Al.Maghribia
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/56.ts
+#EXTINF:-1 tvg-name="MA_Arrabiaa" tvg-logo="" group-title="Maroc",MA_Arrabiaa
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/761.ts
+#EXTINF:-1 tvg-name="MA_Arriadia.Sat" tvg-logo="" group-title="Maroc",MA_Arriadia.Sat
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/733.ts
+#EXTINF:-1 tvg-name="MA_Assadissa" tvg-logo="" group-title="Maroc",MA_Assadissa
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/147.ts
+#EXTINF:-1 tvg-name="MA_Tamazight" tvg-logo="" group-title="Maroc",MA_Tamazight
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/487.ts
+#EXTINF:-1 tvg-name="AR_---Cinema---" tvg-logo="" group-title="Ar Cinema",AR_---Cinema---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8005.ts
+#EXTINF:-1 tvg-name="AR_Al-Nahar.Cinema" tvg-logo="" group-title="Ar Cinema",AR_Al-Nahar.Cinema
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/430.ts
+#EXTINF:-1 tvg-name="AR_ALMASRAWIA.AFLAM" tvg-logo="" group-title="Ar Cinema",AR_ALMASRAWIA.AFLAM
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/701.ts
+#EXTINF:-1 tvg-name="AR_ART.Aflem.1" tvg-logo="" group-title="Ar Cinema",AR_ART.Aflem.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/40.ts
+#EXTINF:-1 tvg-name="AR_ART.Aflem.2" tvg-logo="" group-title="Ar Cinema",AR_ART.Aflem.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/41.ts
+#EXTINF:-1 tvg-name="AR_ART.Cinema" tvg-logo="" group-title="Ar Cinema",AR_ART.Cinema
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/602.ts
+#EXTINF:-1 tvg-name="AR_ART.Hekayat.1" tvg-logo="" group-title="Ar Cinema",AR_ART.Hekayat.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/758.ts
+#EXTINF:-1 tvg-name="AR_ART.Hekayat.2" tvg-logo="" group-title="Ar Cinema",AR_ART.Hekayat.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/759.ts
+#EXTINF:-1 tvg-name="AR_Assalamu.Alayka.Tv" tvg-logo="" group-title="Ar Cinema",AR_Assalamu.Alayka.Tv
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/139.ts
+#EXTINF:-1 tvg-name="AR_B4U.Aflam" tvg-logo="" group-title="Ar Cinema",AR_B4U.Aflam
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/768.ts
+#EXTINF:-1 tvg-name="AR_Cairo.Cinema" tvg-logo="" group-title="Ar Cinema",AR_Cairo.Cinema
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/63.ts
+#EXTINF:-1 tvg-name="AR_Cima" tvg-logo="" group-title="Ar Cinema",AR_Cima
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/66.ts
+#EXTINF:-1 tvg-name="AR_CIMA.ALI.BABA" tvg-logo="" group-title="Ar Cinema",AR_CIMA.ALI.BABA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/706.ts
+#EXTINF:-1 tvg-name="AR_DARBAKA.AFLAM" tvg-logo="" group-title="Ar Cinema",AR_DARBAKA.AFLAM
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/173.ts
+#EXTINF:-1 tvg-name="AR_DARBKA.CINEMA" tvg-logo="" group-title="Ar Cinema",AR_DARBKA.CINEMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/569.ts
+#EXTINF:-1 tvg-name="AR_Imagine.Movies" tvg-logo="" group-title="Ar Cinema",AR_Imagine.Movies
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/718.ts
+#EXTINF:-1 tvg-name="AR_Melody.Classic" tvg-logo="" group-title="Ar Cinema",AR_Melody.Classic
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/770.ts
+#EXTINF:-1 tvg-name="AR_MAJESTIC.CINEMA" tvg-logo="" group-title="Ar Cinema",AR_MAJESTIC.CINEMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/708.ts
+#EXTINF:-1 tvg-name="AR_MBC.Bollywood" tvg-logo="" group-title="Ar Cinema",AR_MBC.Bollywood
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/35.ts
+#EXTINF:-1 tvg-name="AR_Moga.Comedy.TV" tvg-logo="" group-title="Ar Cinema",AR_Moga.Comedy.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/725.ts
+#EXTINF:-1 tvg-name="AR_Nile.Cinema" tvg-logo="" group-title="Ar Cinema",AR_Nile.Cinema
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/180.ts
+#EXTINF:-1 tvg-name="AR_Nile.Comedy" tvg-logo="" group-title="Ar Cinema",AR_Nile.Comedy
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/68.ts
+#EXTINF:-1 tvg-name="AR_Panorama.Film" tvg-logo="" group-title="Ar Cinema",AR_Panorama.Film
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/189.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Aflam.HD" tvg-logo="" group-title="Ar Cinema",AR_Rotana.Aflam.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/620.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Cinema" tvg-logo="" group-title="Ar Cinema",AR_Rotana.Cinema
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/45.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Cinema.HD" tvg-logo="" group-title="Ar Cinema",AR_Rotana.Cinema.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/621.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Classic" tvg-logo="" group-title="Ar Cinema",AR_Rotana.Classic
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/44.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Classic.HD" tvg-logo="" group-title="Ar Cinema",AR_Rotana.Classic.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/622.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Masriya" tvg-logo="" group-title="Ar Cinema",AR_Rotana.Masriya
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/42.ts
+#EXTINF:-1 tvg-name="AR_STAR.CINEMA.1" tvg-logo="" group-title="Ar Cinema",AR_STAR.CINEMA.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/196.ts
+#EXTINF:-1 tvg-name="AR_STAR.CINEMA.2" tvg-logo="" group-title="Ar Cinema",AR_STAR.CINEMA.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/742.ts
+#EXTINF:-1 tvg-name="AR_TIME.CINEMA" tvg-logo="" group-title="Ar Cinema",AR_TIME.CINEMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/702.ts
+#EXTINF:-1 tvg-name="AR_TIME.COMEDY" tvg-logo="" group-title="Ar Cinema",AR_TIME.COMEDY
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/47.ts
+#EXTINF:-1 tvg-name="AR_TIME.FILM" tvg-logo="" group-title="Ar Cinema",AR_TIME.FILM
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1017.ts
+#EXTINF:-1 tvg-name="AR_TIME.TAXI" tvg-logo="" group-title="Ar Cinema",AR_TIME.TAXI
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1023.ts
+#EXTINF:-1 tvg-name="AR_ZEE.AFLAM" tvg-logo="" group-title="Ar Cinema",AR_ZEE.AFLAM
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/74.ts
+#EXTINF:-1 tvg-name="AR_Zee.Alwan" tvg-logo="" group-title="Ar Cinema",AR_Zee.Alwan
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/48.ts
+#EXTINF:-1 tvg-name="AR_---Cinema.English---" tvg-logo="" group-title="Ar Cinema Eng",AR_---Cinema.English---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8006.ts
+#EXTINF:-1 tvg-name="AR_B4U.PLUS" tvg-logo="" group-title="Ar Cinema Eng",AR_B4U.PLUS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/763.ts
+#EXTINF:-1 tvg-name="AR_Cinema.Pro" tvg-logo="" group-title="Ar Cinema Eng",AR_Cinema.Pro
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/764.ts
+#EXTINF:-1 tvg-name="AR_DUBAI.ONE" tvg-logo="" group-title="Ar Cinema Eng",AR_DUBAI.ONE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/153.ts
+#EXTINF:-1 tvg-name="AR_I.Film.Arabic" tvg-logo="" group-title="Ar Cinema Eng",AR_I.Film.Arabic
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/492.ts
+#EXTINF:-1 tvg-name="AR_MBC.2" tvg-logo="" group-title="Ar Cinema Eng",AR_MBC.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/31.ts
+#EXTINF:-1 tvg-name="AR_MBC.Action" tvg-logo="" group-title="Ar Cinema Eng",AR_MBC.Action
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/34.ts
+#EXTINF:-1 tvg-name="AR_MBC.MAX" tvg-logo="" group-title="Ar Cinema Eng",AR_MBC.MAX
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/38.ts
+#EXTINF:-1 tvg-name="AR_---Drama---" tvg-logo="" group-title="Ar Drama",AR_---Drama---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8007.ts
+#EXTINF:-1 tvg-name="AR_AD.DRAMA" tvg-logo="" group-title="Ar Drama",AR_AD.DRAMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/54.ts
+#EXTINF:-1 tvg-name="AR_Alhayat.Muslsalat" tvg-logo="" group-title="Ar Drama",AR_Alhayat.Muslsalat
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/21.ts
+#EXTINF:-1 tvg-name="AR_Al-Nahar.Drama" tvg-logo="" group-title="Ar Drama",AR_Al-Nahar.Drama
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/59.ts
+#EXTINF:-1 tvg-name="AR_AL-Amaken.Drama" tvg-logo="" group-title="Ar Drama",AR_AL-Amaken.Drama
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/712.ts
+#EXTINF:-1 tvg-name="AR_Cairo.Drama" tvg-logo="" group-title="Ar Drama",AR_Cairo.Drama
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/64.ts
+#EXTINF:-1 tvg-name="AR_CBC.Drama" tvg-logo="" group-title="Ar Drama",AR_CBC.Drama
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/22.ts
+#EXTINF:-1 tvg-name="AR_MBC.DRAMA" tvg-logo="" group-title="Ar Drama",AR_MBC.DRAMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/36.ts
+#EXTINF:-1 tvg-name="AR_Nile.Drama" tvg-logo="" group-title="Ar Drama",AR_Nile.Drama
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/69.ts
+#EXTINF:-1 tvg-name="AR_Panorama.Drama" tvg-logo="" group-title="Ar Drama",AR_Panorama.Drama
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/164.ts
+#EXTINF:-1 tvg-name="AR_Panorama.Drama.2" tvg-logo="" group-title="Ar Drama",AR_Panorama.Drama.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/793.ts
+#EXTINF:-1 tvg-name="AR_Sada.ElBalad.Drama" tvg-logo="" group-title="Ar Drama",AR_Sada.ElBalad.Drama
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/778.ts
+#EXTINF:-1 tvg-name="AR_Sudan.Drama" tvg-logo="" group-title="Ar Drama",AR_Sudan.Drama
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1035.ts
+#EXTINF:-1 tvg-name="AR_SYRIAN.DRAMA" tvg-logo="" group-title="Ar Drama",AR_SYRIAN.DRAMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/71.ts
+#EXTINF:-1 tvg-name="AR_---Documentaire---" tvg-logo="" group-title="Ar Documentaire",AR_---Documentaire---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8008.ts
+#EXTINF:-1 tvg-name="AR_AD.Nat.Geo.HD" tvg-logo="" group-title="Ar Documentaire",AR_AD.Nat.Geo.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/75.ts
+#EXTINF:-1 tvg-name="AR_Al.Jazeera.Documentary" tvg-logo="" group-title="Ar Documentaire",AR_Al.Jazeera.Documentary
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/76.ts
+#EXTINF:-1 tvg-name="AR_Althaqafiah" tvg-logo="" group-title="Ar Documentaire",AR_Althaqafiah
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/810.ts
+#EXTINF:-1 tvg-name="AR_Echorouk.benna.TV" tvg-logo="" group-title="Ar Documentaire",AR_Echorouk.benna.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/726.ts
+#EXTINF:-1 tvg-name="AR_FATAFEAT" tvg-logo="" group-title="Ar Documentaire",AR_FATAFEAT
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/26.ts
+#EXTINF:-1 tvg-name="AR_Panorama.Food" tvg-logo="" group-title="Ar Documentaire",AR_Panorama.Food
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/839.ts
+#EXTINF:-1 tvg-name="AR_Quest.Arabiya" tvg-logo="" group-title="Ar Documentaire",AR_Quest.Arabiya
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/39.ts
+#EXTINF:-1 tvg-name="AR_Samira.TV" tvg-logo="" group-title="Ar Documentaire",AR_Samira.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/194.ts
+#EXTINF:-1 tvg-name="AR_---Sport---" tvg-logo="" group-title="Ar Sport",AR_---Sport---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8010.ts
+#EXTINF:-1 tvg-name="AR_AD.Sports.1.HD" tvg-logo="" group-title="Ar Sport",AR_AD.Sports.1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/122.ts
+#EXTINF:-1 tvg-name="AR_AD.Sports.2.HD" tvg-logo="" group-title="Ar Sport",AR_AD.Sports.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/603.ts
+#EXTINF:-1 tvg-name="AR_AD.Sports.3.HD" tvg-logo="" group-title="Ar Sport",AR_AD.Sports.3.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/57.ts
+#EXTINF:-1 tvg-name="AR_AD.Sports.4.HD" tvg-logo="" group-title="Ar Sport",AR_AD.Sports.4.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/61.ts
+#EXTINF:-1 tvg-name="AR_AD.Sports.5.HD" tvg-logo="" group-title="Ar Sport",AR_AD.Sports.5.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/62.ts
+#EXTINF:-1 tvg-name="AR_Al.Ahly.TV" tvg-logo="" group-title="Ar Sport",AR_Al.Ahly.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/783.ts
+#EXTINF:-1 tvg-name="AR_Al-Nahar.Sport" tvg-logo="" group-title="Ar Sport",AR_Al-Nahar.Sport
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/179.ts
+#EXTINF:-1 tvg-name="AR_Alkass.one.HD" tvg-logo="" group-title="Ar Sport",AR_Alkass.one.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/497.ts
+#EXTINF:-1 tvg-name="AR_Alkass.two.HD" tvg-logo="" group-title="Ar Sport",AR_Alkass.two.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/442.ts
+#EXTINF:-1 tvg-name="AR_Bahrain.Sport.1" tvg-logo="" group-title="Ar Sport",AR_Bahrain.Sport.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/67.ts
+#EXTINF:-1 tvg-name="AR_Bahrain.Sport.2" tvg-logo="" group-title="Ar Sport",AR_Bahrain.Sport.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/78.ts
+#EXTINF:-1 tvg-name="AR_dmc.Sports" tvg-logo="" group-title="Ar Sport",AR_dmc.Sports
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/79.ts
+#EXTINF:-1 tvg-name="AR_DUBAI.RACING.1.HD" tvg-logo="" group-title="Ar Sport",AR_DUBAI.RACING.1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/80.ts
+#EXTINF:-1 tvg-name="AR_DUBAI.RACING.2.HD" tvg-logo="" group-title="Ar Sport",AR_DUBAI.RACING.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/81.ts
+#EXTINF:-1 tvg-name="AR_DUBAI.SPORT1" tvg-logo="" group-title="Ar Sport",AR_DUBAI.SPORT1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/154.ts
+#EXTINF:-1 tvg-name="AR_Iraqia.Sport" tvg-logo="" group-title="Ar Sport",AR_Iraqia.Sport
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/841.ts
+#EXTINF:-1 tvg-name="AR_Jordan.Sport" tvg-logo="" group-title="Ar Sport",AR_Jordan.Sport
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/82.ts
+#EXTINF:-1 tvg-name="AR_Kuwait.Sport" tvg-logo="" group-title="Ar Sport",AR_Kuwait.Sport
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/792.ts
+#EXTINF:-1 tvg-name="AR_Neelain.Sport" tvg-logo="" group-title="Ar Sport",AR_Neelain.Sport
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1028.ts
+#EXTINF:-1 tvg-name="AR_Nile.Sport" tvg-logo="" group-title="Ar Sport",AR_Nile.Sport
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/183.ts
+#EXTINF:-1 tvg-name="AR_Oman.TV.Sport" tvg-logo="" group-title="Ar Sport",AR_Oman.TV.Sport
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/84.ts
+#EXTINF:-1 tvg-name="AR_ON..Sport.HD" tvg-logo="" group-title="Ar Sport",AR_ON..Sport.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/85.ts
+#EXTINF:-1 tvg-name="AR_Palestine.Sport" tvg-logo="" group-title="Ar Sport",AR_Palestine.Sport
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/86.ts
+#EXTINF:-1 tvg-name="AR_Saudi.Sport" tvg-logo="" group-title="Ar Sport",AR_Saudi.Sport
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/747.ts
+#EXTINF:-1 tvg-name="AR_YAS.Sports" tvg-logo="" group-title="Ar Sport",AR_YAS.Sports
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/87.ts
+#EXTINF:-1 tvg-name="AR_---Disney---" tvg-logo="" group-title="Ar Disney",AR_---Disney---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8011.ts
+#EXTINF:-1 tvg-name="AR_Ajial" tvg-logo="" group-title="Ar Disney",AR_Ajial
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/88.ts
+#EXTINF:-1 tvg-name="AR_Baraem" tvg-logo="" group-title="Ar Disney",AR_Baraem
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/50.ts
+#EXTINF:-1 tvg-name="AR_Baynounah.TV" tvg-logo="" group-title="Ar Disney",AR_Baynounah.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/799.ts
+#EXTINF:-1 tvg-name="AR_CN.Arabia" tvg-logo="" group-title="Ar Disney",AR_CN.Arabia
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/65.ts
+#EXTINF:-1 tvg-name="AR_Jeem.SD" tvg-logo="" group-title="Ar Disney",AR_Jeem.SD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/131.ts
+#EXTINF:-1 tvg-name="AR_KARAMEESH" tvg-logo="" group-title="Ar Disney",AR_KARAMEESH
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/199.ts
+#EXTINF:-1 tvg-name="AR_KIDZINIA" tvg-logo="" group-title="Ar Disney",AR_KIDZINIA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/731.ts
+#EXTINF:-1 tvg-name="AR_KOKKY.TV" tvg-logo="" group-title="Ar Disney",AR_KOKKY.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/736.ts
+#EXTINF:-1 tvg-name="AR_Majid.Kids.TV" tvg-logo="" group-title="Ar Disney",AR_Majid.Kids.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/90.ts
+#EXTINF:-1 tvg-name="AR_MBC.3" tvg-logo="" group-title="Ar Disney",AR_MBC.3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/32.ts
+#EXTINF:-1 tvg-name="AR_MICKEY.CHANNEL" tvg-logo="" group-title="Ar Disney",AR_MICKEY.CHANNEL
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/788.ts
+#EXTINF:-1 tvg-name="AR_MODY.KIDS" tvg-logo="" group-title="Ar Disney",AR_MODY.KIDS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/717.ts
+#EXTINF:-1 tvg-name="AR_SPACETOON.ARABIC" tvg-logo="" group-title="Ar Disney",AR_SPACETOON.ARABIC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/49.ts
+#EXTINF:-1 tvg-name="AR_TAHA" tvg-logo="" group-title="Ar Disney",AR_TAHA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/748.ts
+#EXTINF:-1 tvg-name="AR_TEN" tvg-logo="" group-title="Ar Disney",AR_TEN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/2000.ts
+#EXTINF:-1 tvg-name="AR_TOYOR.AL.JANAH" tvg-logo="" group-title="Ar Disney",AR_TOYOR.AL.JANAH
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/73.ts
+#EXTINF:-1 tvg-name="AR_TOYOR.BABY" tvg-logo="" group-title="Ar Disney",AR_TOYOR.BABY
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/91.ts
+#EXTINF:-1 tvg-name="AR_---News---" tvg-logo="" group-title="Ar News",AR_---News---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8012.ts
+#EXTINF:-1 tvg-name="AR_AL.ALAM" tvg-logo="" group-title="Ar News",AR_AL.ALAM
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/504.ts
+#EXTINF:-1 tvg-name="AR_Al.Arabiya" tvg-logo="" group-title="Ar News",AR_Al.Arabiya
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/53.ts
+#EXTINF:-1 tvg-name="AR_AL.EKHBARIYA.AL.SORIYA" tvg-logo="" group-title="Ar News",AR_AL.EKHBARIYA.AL.SORIYA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/92.ts
+#EXTINF:-1 tvg-name="AR_AL.Hadath" tvg-logo="" group-title="Ar News",AR_AL.Hadath
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/491.ts
+#EXTINF:-1 tvg-name="AR_AL.JAZEERA" tvg-logo="" group-title="Ar News",AR_AL.JAZEERA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/142.ts
+#EXTINF:-1 tvg-name="AR_Al.Jazeera.America" tvg-logo="" group-title="Ar News",AR_Al.Jazeera.America
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/775.ts
+#EXTINF:-1 tvg-name="AR_Al.Jazeera.English" tvg-logo="" group-title="Ar News",AR_Al.Jazeera.English
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/779.ts
+#EXTINF:-1 tvg-name="AR_Al.Jazeera.Mubasher" tvg-logo="" group-title="Ar News",AR_Al.Jazeera.Mubasher
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/755.ts
+#EXTINF:-1 tvg-name="AR_AL.SHARQIYA.NEWS" tvg-logo="" group-title="Ar News",AR_AL.SHARQIYA.NEWS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/93.ts
+#EXTINF:-1 tvg-name="AR_Al-Arabiya.Alhadath" tvg-logo="" group-title="Ar News",AR_Al-Arabiya.Alhadath
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/784.ts
+#EXTINF:-1 tvg-name="AR_Al-EKhbaria" tvg-logo="" group-title="Ar News",AR_Al-EKhbaria
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/493.ts
+#EXTINF:-1 tvg-name="AR_anb" tvg-logo="" group-title="Ar News",AR_anb
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/177.ts
+#EXTINF:-1 tvg-name="AR_ANN" tvg-logo="" group-title="Ar News",AR_ANN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/52.ts
+#EXTINF:-1 tvg-name="AR_BBC.Arabic" tvg-logo="" group-title="Ar News",AR_BBC.Arabic
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/148.ts
+#EXTINF:-1 tvg-name="AR_CNBC.ARABIYA" tvg-logo="" group-title="Ar News",AR_CNBC.ARABIYA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/151.ts
+#EXTINF:-1 tvg-name="AR_EuroNews" tvg-logo="" group-title="Ar News",AR_EuroNews
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/146.ts
+#EXTINF:-1 tvg-name="AR_France.24" tvg-logo="" group-title="Ar News",AR_France.24
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/159.ts
+#EXTINF:-1 tvg-name="AR_France.24.Eng" tvg-logo="" group-title="Ar News",AR_France.24.Eng
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/786.ts
+#EXTINF:-1 tvg-name="AR_Iraqia.TV" tvg-logo="" group-title="Ar News",AR_Iraqia.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/141.ts
+#EXTINF:-1 tvg-name="AR_MANAR" tvg-logo="" group-title="Ar News",AR_MANAR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/58.ts
+#EXTINF:-1 tvg-name="AR_Nile.News" tvg-logo="" group-title="Ar News",AR_Nile.News
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/182.ts
+#EXTINF:-1 tvg-name="AR_RT.Arab" tvg-logo="" group-title="Ar News",AR_RT.Arab
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/15.ts
+#EXTINF:-1 tvg-name="AR_Sky.News.Arabia" tvg-logo="" group-title="Ar News",AR_Sky.News.Arabia
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/150.ts
+#EXTINF:-1 tvg-name="AR_TV5" tvg-logo="" group-title="Ar News",AR_TV5
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/192.ts
+#EXTINF:-1 tvg-name="AR_---Music---" tvg-logo="" group-title="Ar Music",AR_---Music---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8013.ts
+#EXTINF:-1 tvg-name="AR_Aghanina" tvg-logo="" group-title="Ar Music",AR_Aghanina
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/124.ts
+#EXTINF:-1 tvg-name="AR_FM.TV" tvg-logo="" group-title="Ar Music",AR_FM.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/94.ts
+#EXTINF:-1 tvg-name="AR_Free.TV" tvg-logo="" group-title="Ar Music",AR_Free.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/24.ts
+#EXTINF:-1 tvg-name="AR_FUNoon" tvg-logo="" group-title="Ar Music",AR_FUNoon
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/160.ts
+#EXTINF:-1 tvg-name="AR_Hawacom" tvg-logo="" group-title="Ar Music",AR_Hawacom
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/462.ts
+#EXTINF:-1 tvg-name="AR_Mazzika" tvg-logo="" group-title="Ar Music",AR_Mazzika
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/29.ts
+#EXTINF:-1 tvg-name="AR_Music.Alhanen" tvg-logo="" group-title="Ar Music",AR_Music.Alhanen
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/126.ts
+#EXTINF:-1 tvg-name="AR_MUSIC.PLUS" tvg-logo="" group-title="Ar Music",AR_MUSIC.PLUS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/162.ts
+#EXTINF:-1 tvg-name="AR_Rotana" tvg-logo="" group-title="Ar Music",AR_Rotana
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/43.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Clip" tvg-logo="" group-title="Ar Music",AR_Rotana.Clip
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/190.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Khalijiah" tvg-logo="" group-title="Ar Music",AR_Rotana.Khalijiah
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/46.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Khalijeah.HD" tvg-logo="" group-title="Ar Music",AR_Rotana.Khalijeah.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/95.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Masriya.HD" tvg-logo="" group-title="Ar Music",AR_Rotana.Masriya.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/96.ts
+#EXTINF:-1 tvg-name="AR_Rotana.Music.HD" tvg-logo="" group-title="Ar Music",AR_Rotana.Music.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/97.ts
+#EXTINF:-1 tvg-name="AR_---Religion---" tvg-logo="" group-title="Ar Religion",AR_---Religion---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8014.ts
+#EXTINF:-1 tvg-name="AR_Ahel.Al.Quran" tvg-logo="" group-title="Ar Religion",AR_Ahel.Al.Quran
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/776.ts
+#EXTINF:-1 tvg-name="AR_Al.Majd.Hadeeth" tvg-logo="" group-title="Ar Religion",AR_Al.Majd.Hadeeth
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/125.ts
+#EXTINF:-1 tvg-name="AR_Al.Majd.Islamic.Scince" tvg-logo="" group-title="Ar Religion",AR_Al.Majd.Islamic.Scince
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/704.ts
+#EXTINF:-1 tvg-name="AR_Al.Majd.Kids" tvg-logo="" group-title="Ar Religion",AR_Al.Majd.Kids
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/176.ts
+#EXTINF:-1 tvg-name="AR_Al.Majd.Quran" tvg-logo="" group-title="Ar Religion",AR_Al.Majd.Quran
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/710.ts
+#EXTINF:-1 tvg-name="AR_AL.RAHMA" tvg-logo="" group-title="Ar Religion",AR_AL.RAHMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1015.ts
+#EXTINF:-1 tvg-name="AR_AL.Resala" tvg-logo="" group-title="Ar Religion",AR_AL.Resala
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/727.ts
+#EXTINF:-1 tvg-name="AR_ALFATH.Quran" tvg-logo="" group-title="Ar Religion",AR_ALFATH.Quran
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/461.ts
+#EXTINF:-1 tvg-name="AR_almajd" tvg-logo="" group-title="Ar Religion",AR_almajd
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/720.ts
+#EXTINF:-1 tvg-name="AR_Azhari" tvg-logo="" group-title="Ar Religion",AR_Azhari
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/756.ts
+#EXTINF:-1 tvg-name="AR_Bahrain.Quran" tvg-logo="" group-title="Ar Religion",AR_Bahrain.Quran
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/99.ts
+#EXTINF:-1 tvg-name="AR_BIN.OTHAIMEEN" tvg-logo="" group-title="Ar Religion",AR_BIN.OTHAIMEEN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/100.ts
+#EXTINF:-1 tvg-name="AR_Iqraa" tvg-logo="" group-title="Ar Religion",AR_Iqraa
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/165.ts
+#EXTINF:-1 tvg-name="AR_Mecca" tvg-logo="" group-title="Ar Religion",AR_Mecca
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/796.ts
+#EXTINF:-1 tvg-name="AR_QURAN.TV" tvg-logo="" group-title="Ar Religion",AR_QURAN.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/707.ts
+#EXTINF:-1 tvg-name="AR_Saudi.Ch.For.Quran" tvg-logo="" group-title="Ar Religion",AR_Saudi.Ch.For.Quran
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/749.ts
+#EXTINF:-1 tvg-name="AR_Saudi.Ch.For.Sunnah" tvg-logo="" group-title="Ar Religion",AR_Saudi.Ch.For.Sunnah
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/750.ts
+#EXTINF:-1 tvg-name="AR_TIME.QURAN" tvg-logo="" group-title="Ar Religion",AR_TIME.QURAN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/715.ts
+#EXTINF:-1 tvg-name="AR_---Divers---" tvg-logo="" group-title="Ar Divers",AR_---Divers---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8015.ts
+#EXTINF:-1 tvg-name="AR_4SHABAB.TV1" tvg-logo="" group-title="Ar Divers",AR_4SHABAB.TV1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/481.ts
+#EXTINF:-1 tvg-name="AR_Abu.Dhabi.TV" tvg-logo="" group-title="Ar Divers",AR_Abu.Dhabi.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/55.ts
+#EXTINF:-1 tvg-name="AR_Al.Ahd" tvg-logo="" group-title="Ar Divers",AR_Al.Ahd
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/101.ts
+#EXTINF:-1 tvg-name="AR_Al.Anis.TV" tvg-logo="" group-title="Ar Divers",AR_Al.Anis.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/102.ts
+#EXTINF:-1 tvg-name="AR_Al.Araby.TV" tvg-logo="" group-title="Ar Divers",AR_Al.Araby.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/460.ts
+#EXTINF:-1 tvg-name="AR_AL.ASSEMA" tvg-logo="" group-title="Ar Divers",AR_AL.ASSEMA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/140.ts
+#EXTINF:-1 tvg-name="AR_AL.ASSEMA2" tvg-logo="" group-title="Ar Divers",AR_AL.ASSEMA2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/103.ts
+#EXTINF:-1 tvg-name="AR_AL.DAFRA" tvg-logo="" group-title="Ar Divers",AR_AL.DAFRA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/766.ts
+#EXTINF:-1 tvg-name="AR_AL.EMARAT.TV" tvg-logo="" group-title="Ar Divers",AR_AL.EMARAT.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/123.ts
+#EXTINF:-1 tvg-name="AR_Al.Falastiniah" tvg-logo="" group-title="Ar Divers",AR_Al.Falastiniah
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/104.ts
+#EXTINF:-1 tvg-name="AR_Al.Forat" tvg-logo="" group-title="Ar Divers",AR_Al.Forat
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/72.ts
+#EXTINF:-1 tvg-name="AR_Al.Ghad.Al.Arabi" tvg-logo="" group-title="Ar Divers",AR_Al.Ghad.Al.Arabi
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/485.ts
+#EXTINF:-1 tvg-name="AR_Al.Ghad.TV" tvg-logo="" group-title="Ar Divers",AR_Al.Ghad.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/105.ts
+#EXTINF:-1 tvg-name="AR_Al.Ghadeer" tvg-logo="" group-title="Ar Divers",AR_Al.Ghadeer
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/106.ts
+#EXTINF:-1 tvg-name="AR_AL.Hurra.Iraq" tvg-logo="" group-title="Ar Divers",AR_AL.Hurra.Iraq
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/135.ts
+#EXTINF:-1 tvg-name="AR_Al.Hurra.Iraq" tvg-logo="" group-title="Ar Divers",AR_Al.Hurra.Iraq
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/107.ts
+#EXTINF:-1 tvg-name="AR_AL.JADEED" tvg-logo="" group-title="Ar Divers",AR_AL.JADEED
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/785.ts
+#EXTINF:-1 tvg-name="AR_Al.Kahera.Wal.Nas" tvg-logo="" group-title="Ar Divers",AR_Al.Kahera.Wal.Nas
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/790.ts
+#EXTINF:-1 tvg-name="AR_Al.Kahera.Wal.Nas.+2" tvg-logo="" group-title="Ar Divers",AR_Al.Kahera.Wal.Nas.+2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/169.ts
+#EXTINF:-1 tvg-name="AR_AL.masriya" tvg-logo="" group-title="Ar Divers",AR_AL.masriya
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/479.ts
+#EXTINF:-1 tvg-name="AR_Al.Mawsleya" tvg-logo="" group-title="Ar Divers",AR_Al.Mawsleya
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/108.ts
+#EXTINF:-1 tvg-name="AR_AL.MAYADEEN.TV" tvg-logo="" group-title="Ar Divers",AR_AL.MAYADEEN.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/132.ts
+#EXTINF:-1 tvg-name="AR_AL.NADA.TV" tvg-logo="" group-title="Ar Divers",AR_AL.NADA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/109.ts
+#EXTINF:-1 tvg-name="AR_AL.oula" tvg-logo="" group-title="Ar Divers",AR_AL.oula
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/483.ts
+#EXTINF:-1 tvg-name="AR_AL.QUDS" tvg-logo="" group-title="Ar Divers",AR_AL.QUDS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/143.ts
+#EXTINF:-1 tvg-name="AR_Al.Rafiden" tvg-logo="" group-title="Ar Divers",AR_Al.Rafiden
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/133.ts
+#EXTINF:-1 tvg-name="AR_Al.Resala" tvg-logo="" group-title="Ar Divers",AR_Al.Resala
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/134.ts
+#EXTINF:-1 tvg-name="AR_AL.SAHAT" tvg-logo="" group-title="Ar Divers",AR_AL.SAHAT
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/144.ts
+#EXTINF:-1 tvg-name="AR_AL.SERAJ" tvg-logo="" group-title="Ar Divers",AR_AL.SERAJ
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/145.ts
+#EXTINF:-1 tvg-name="AR_AL.SHARQIYA" tvg-logo="" group-title="Ar Divers",AR_AL.SHARQIYA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/446.ts
+#EXTINF:-1 tvg-name="AR_Al.Sumaria.TV" tvg-logo="" group-title="Ar Divers",AR_Al.Sumaria.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/130.ts
+#EXTINF:-1 tvg-name="AR_AL-Anbar" tvg-logo="" group-title="Ar Divers",AR_AL-Anbar
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/488.ts
+#EXTINF:-1 tvg-name="AR_Al-Nahar" tvg-logo="" group-title="Ar Divers",AR_Al-Nahar
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/772.ts
+#EXTINF:-1 tvg-name="AR_Al-Nahar.+2" tvg-logo="" group-title="Ar Divers",AR_Al-Nahar.+2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/765.ts
+#EXTINF:-1 tvg-name="AR_Al-Nahar.Al.Youm" tvg-logo="" group-title="Ar Divers",AR_Al-Nahar.Al.Youm
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/752.ts
+#EXTINF:-1 tvg-name="AR_Al-nahar.noor" tvg-logo="" group-title="Ar Divers",AR_Al-nahar.noor
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/453.ts
+#EXTINF:-1 tvg-name="AR_Al-Shahed.TV" tvg-logo="" group-title="Ar Divers",AR_Al-Shahed.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/155.ts
+#EXTINF:-1 tvg-name="AR_ALAAN.TV" tvg-logo="" group-title="Ar Divers",AR_ALAAN.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/136.ts
+#EXTINF:-1 tvg-name="AR_ALASKANDRIA" tvg-logo="" group-title="Ar Divers",AR_ALASKANDRIA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/127.ts
+#EXTINF:-1 tvg-name="AR_ALDELTA" tvg-logo="" group-title="Ar Divers",AR_ALDELTA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/457.ts
+#EXTINF:-1 tvg-name="AR_Aleqtisadiah" tvg-logo="" group-title="Ar Divers",AR_Aleqtisadiah
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/469.ts
+#EXTINF:-1 tvg-name="AR_ALhayat" tvg-logo="" group-title="Ar Divers",AR_ALhayat
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/138.ts
+#EXTINF:-1 tvg-name="AR_Alhayat.2" tvg-logo="" group-title="Ar Divers",AR_Alhayat.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/777.ts
+#EXTINF:-1 tvg-name="AR_Alitejah.TV" tvg-logo="" group-title="Ar Divers",AR_Alitejah.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/128.ts
+#EXTINF:-1 tvg-name="AR_ALKAHERA" tvg-logo="" group-title="Ar Divers",AR_ALKAHERA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/709.ts
+#EXTINF:-1 tvg-name="AR_ALKANAL" tvg-logo="" group-title="Ar Divers",AR_ALKANAL
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/503.ts
+#EXTINF:-1 tvg-name="AR_ALMADA.TV" tvg-logo="" group-title="Ar Divers",AR_ALMADA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/845.ts
+#EXTINF:-1 tvg-name="AR_ALMOURABITOUNE" tvg-logo="" group-title="Ar Divers",AR_ALMOURABITOUNE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/184.ts
+#EXTINF:-1 tvg-name="AR_Alrai.TV" tvg-logo="" group-title="Ar Divers",AR_Alrai.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/470.ts
+#EXTINF:-1 tvg-name="AR_ALSA3EED" tvg-logo="" group-title="Ar Divers",AR_ALSA3EED
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/769.ts
+#EXTINF:-1 tvg-name="AR_AlSaeedah" tvg-logo="" group-title="Ar Divers",AR_AlSaeedah
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/464.ts
+#EXTINF:-1 tvg-name="AR_Althanya" tvg-logo="" group-title="Ar Divers",AR_Althanya
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/215.ts
+#EXTINF:-1 tvg-name="AR_anb" tvg-logo="" group-title="Ar Divers",AR_anb
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/221.ts
+#EXTINF:-1 tvg-name="AR_Annajah" tvg-logo="" group-title="Ar Divers",AR_Annajah
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/227.ts
+#EXTINF:-1 tvg-name="AR_ARRAED" tvg-logo="" group-title="Ar Divers",AR_ARRAED
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/231.ts
+#EXTINF:-1 tvg-name="AR_ASHOROOQ.Sudan" tvg-logo="" group-title="Ar Divers",AR_ASHOROOQ.Sudan
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/232.ts
+#EXTINF:-1 tvg-name="AR_Ashrooq.Tv" tvg-logo="" group-title="Ar Divers",AR_Ashrooq.Tv
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/471.ts
+#EXTINF:-1 tvg-name="AR_Awdeh" tvg-logo="" group-title="Ar Divers",AR_Awdeh
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/244.ts
+#EXTINF:-1 tvg-name="AR_BAGHDAD.TV" tvg-logo="" group-title="Ar Divers",AR_BAGHDAD.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/246.ts
+#EXTINF:-1 tvg-name="AR_Bahrain.International" tvg-logo="" group-title="Ar Divers",AR_Bahrain.International
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/247.ts
+#EXTINF:-1 tvg-name="AR_Bahrain.TV" tvg-logo="" group-title="Ar Divers",AR_Bahrain.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/248.ts
+#EXTINF:-1 tvg-name="AR_Beladi" tvg-logo="" group-title="Ar Divers",AR_Beladi
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/495.ts
+#EXTINF:-1 tvg-name="AR_BELQEES" tvg-logo="" group-title="Ar Divers",AR_BELQEES
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/443.ts
+#EXTINF:-1 tvg-name="AR_Beur" tvg-logo="" group-title="Ar Divers",AR_Beur
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/161.ts
+#EXTINF:-1 tvg-name="AR_BNTV" tvg-logo="" group-title="Ar Divers",AR_BNTV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/149.ts
+#EXTINF:-1 tvg-name="AR_Canal.Atlas" tvg-logo="" group-title="Ar Divers",AR_Canal.Atlas
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/249.ts
+#EXTINF:-1 tvg-name="AR_CBC" tvg-logo="" group-title="Ar Divers",AR_CBC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/23.ts
+#EXTINF:-1 tvg-name="AR_CBC.+2" tvg-logo="" group-title="Ar Divers",AR_CBC.+2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/767.ts
+#EXTINF:-1 tvg-name="AR_CBC.eXtra" tvg-logo="" group-title="Ar Divers",AR_CBC.eXtra
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/782.ts
+#EXTINF:-1 tvg-name="AR_CBC.Sofra" tvg-logo="" group-title="Ar Divers",AR_CBC.Sofra
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/760.ts
+#EXTINF:-1 tvg-name="AR_CHINGUIT.TV" tvg-logo="" group-title="Ar Divers",AR_CHINGUIT.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/250.ts
+#EXTINF:-1 tvg-name="AR_davatv_mour" tvg-logo="" group-title="Ar Divers",AR_davatv_mour
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1032.ts
+#EXTINF:-1 tvg-name="AR_Dream2" tvg-logo="" group-title="Ar Divers",AR_Dream2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/714.ts
+#EXTINF:-1 tvg-name="AR_Dubai.Al.Oula" tvg-logo="" group-title="Ar Divers",AR_Dubai.Al.Oula
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/25.ts
+#EXTINF:-1 tvg-name="AR_Dubai.TV" tvg-logo="" group-title="Ar Divers",AR_Dubai.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/251.ts
+#EXTINF:-1 tvg-name="AR_Dubai.Zaman" tvg-logo="" group-title="Ar Divers",AR_Dubai.Zaman
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/252.ts
+#EXTINF:-1 tvg-name="AR_DW-TV.ARABIA" tvg-logo="" group-title="Ar Divers",AR_DW-TV.ARABIA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/789.ts
+#EXTINF:-1 tvg-name="AR_EL.BILAD.TV" tvg-logo="" group-title="Ar Divers",AR_EL.BILAD.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/795.ts
+#EXTINF:-1 tvg-name="AR_EL.HOGGAR" tvg-logo="" group-title="Ar Divers",AR_EL.HOGGAR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/253.ts
+#EXTINF:-1 tvg-name="AR_EL.MAHADRA" tvg-logo="" group-title="Ar Divers",AR_EL.MAHADRA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/254.ts
+#EXTINF:-1 tvg-name="AR_El.Mouritaniya" tvg-logo="" group-title="Ar Divers",AR_El.Mouritaniya
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/171.ts
+#EXTINF:-1 tvg-name="AR_EL.WATANIA.TV" tvg-logo="" group-title="Ar Divers",AR_EL.WATANIA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/255.ts
+#EXTINF:-1 tvg-name="AR_ELMOURITANIA.2" tvg-logo="" group-title="Ar Divers",AR_ELMOURITANIA.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/261.ts
+#EXTINF:-1 tvg-name="AR_Future.TV" tvg-logo="" group-title="Ar Divers",AR_Future.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/705.ts
+#EXTINF:-1 tvg-name="AR_HC.TV" tvg-logo="" group-title="Ar Divers",AR_HC.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1007.ts
+#EXTINF:-1 tvg-name="AR_Heya.TV" tvg-logo="" group-title="Ar Divers",AR_Heya.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/463.ts
+#EXTINF:-1 tvg-name="AR_Iraqia" tvg-logo="" group-title="Ar Divers",AR_Iraqia
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/494.ts
+#EXTINF:-1 tvg-name="AR_Jordan.TV" tvg-logo="" group-title="Ar Divers",AR_Jordan.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/269.ts
+#EXTINF:-1 tvg-name="AR_JOSAT" tvg-logo="" group-title="Ar Divers",AR_JOSAT
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/271.ts
+#EXTINF:-1 tvg-name="AR_K24.SD" tvg-logo="" group-title="Ar Divers",AR_K24.SD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/475.ts
+#EXTINF:-1 tvg-name="AR_KALSAN.TV" tvg-logo="" group-title="Ar Divers",AR_KALSAN.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1000.ts
+#EXTINF:-1 tvg-name="AR_khaer_sudan" tvg-logo="" group-title="Ar Divers",AR_khaer_sudan
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1037.ts
+#EXTINF:-1 tvg-name="AR_KTV.AL.ARABI" tvg-logo="" group-title="Ar Divers",AR_KTV.AL.ARABI
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/272.ts
+#EXTINF:-1 tvg-name="AR_KTV.CH1.HD" tvg-logo="" group-title="Ar Divers",AR_KTV.CH1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/273.ts
+#EXTINF:-1 tvg-name="AR_KTV.CH2.HD" tvg-logo="" group-title="Ar Divers",AR_KTV.CH2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/285.ts
+#EXTINF:-1 tvg-name="AR_KTV.ETHRAA" tvg-logo="" group-title="Ar Divers",AR_KTV.ETHRAA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/286.ts
+#EXTINF:-1 tvg-name="AR_KTV.Plus" tvg-logo="" group-title="Ar Divers",AR_KTV.Plus
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/287.ts
+#EXTINF:-1 tvg-name="AR_KTV.S.Plus" tvg-logo="" group-title="Ar Divers",AR_KTV.S.Plus
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/288.ts
+#EXTINF:-1 tvg-name="AR_LBC.HD" tvg-logo="" group-title="Ar Divers",AR_LBC.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/289.ts
+#EXTINF:-1 tvg-name="AR_LBC.SAT" tvg-logo="" group-title="Ar Divers",AR_LBC.SAT
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/28.ts
+#EXTINF:-1 tvg-name="AR_LDC" tvg-logo="" group-title="Ar Divers",AR_LDC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/170.ts
+#EXTINF:-1 tvg-name="AR_Lebanon.TV" tvg-logo="" group-title="Ar Divers",AR_Lebanon.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/129.ts
+#EXTINF:-1 tvg-name="AR_LTC" tvg-logo="" group-title="Ar Divers",AR_LTC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/468.ts
+#EXTINF:-1 tvg-name="AR_MASDAR.TV" tvg-logo="" group-title="Ar Divers",AR_MASDAR.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/486.ts
+#EXTINF:-1 tvg-name="AR_Massaya" tvg-logo="" group-title="Ar Divers",AR_Massaya
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/444.ts
+#EXTINF:-1 tvg-name="AR_MBC.1" tvg-logo="" group-title="Ar Divers",AR_MBC.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/30.ts
+#EXTINF:-1 tvg-name="AR_MBC.4" tvg-logo="" group-title="Ar Divers",AR_MBC.4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/33.ts
+#EXTINF:-1 tvg-name="AR_MBC.MASR" tvg-logo="" group-title="Ar Divers",AR_MBC.MASR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/37.ts
+#EXTINF:-1 tvg-name="AR_MBC.Masr.2" tvg-logo="" group-title="Ar Divers",AR_MBC.Masr.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/480.ts
+#EXTINF:-1 tvg-name="AR_Medi1.TV" tvg-logo="" group-title="Ar Divers",AR_Medi1.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/166.ts
+#EXTINF:-1 tvg-name="AR_Mehwer" tvg-logo="" group-title="Ar Divers",AR_Mehwer
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/175.ts
+#EXTINF:-1 tvg-name="AR_Menhag.Alnbowa" tvg-logo="" group-title="Ar Divers",AR_Menhag.Alnbowa
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/293.ts
+#EXTINF:-1 tvg-name="AR_MTV.Lebanon" tvg-logo="" group-title="Ar Divers",AR_MTV.Lebanon
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/163.ts
+#EXTINF:-1 tvg-name="AR_MUSAWA" tvg-logo="" group-title="Ar Divers",AR_MUSAWA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/294.ts
+#EXTINF:-1 tvg-name="AR_NBN" tvg-logo="" group-title="Ar Divers",AR_NBN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/178.ts
+#EXTINF:-1 tvg-name="AR_Nile.Culture" tvg-logo="" group-title="Ar Divers",AR_Nile.Culture
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/185.ts
+#EXTINF:-1 tvg-name="AR_Nile.Family" tvg-logo="" group-title="Ar Divers",AR_Nile.Family
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/70.ts
+#EXTINF:-1 tvg-name="AR_Nile.Life" tvg-logo="" group-title="Ar Divers",AR_Nile.Life
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/781.ts
+#EXTINF:-1 tvg-name="AR_Nile.TV" tvg-logo="" group-title="Ar Divers",AR_Nile.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/181.ts
+#EXTINF:-1 tvg-name="AR_Noor.Muscat" tvg-logo="" group-title="Ar Divers",AR_Noor.Muscat
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/296.ts
+#EXTINF:-1 tvg-name="AR_OMAN" tvg-logo="" group-title="Ar Divers",AR_OMAN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/297.ts
+#EXTINF:-1 tvg-name="AR_Oman.TV.Culture" tvg-logo="" group-title="Ar Divers",AR_Oman.TV.Culture
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/298.ts
+#EXTINF:-1 tvg-name="AR_Oman.TV.Live" tvg-logo="" group-title="Ar Divers",AR_Oman.TV.Live
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/299.ts
+#EXTINF:-1 tvg-name="AR_ON..Live.HD" tvg-logo="" group-title="Ar Divers",AR_ON..Live.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/300.ts
+#EXTINF:-1 tvg-name="AR_ON..Plus.HD" tvg-logo="" group-title="Ar Divers",AR_ON..Plus.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/301.ts
+#EXTINF:-1 tvg-name="AR_ONTV" tvg-logo="" group-title="Ar Divers",AR_ONTV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/187.ts
+#EXTINF:-1 tvg-name="AR_ORIENT" tvg-logo="" group-title="Ar Divers",AR_ORIENT
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/302.ts
+#EXTINF:-1 tvg-name="AR_OTV" tvg-logo="" group-title="Ar Divers",AR_OTV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/186.ts
+#EXTINF:-1 tvg-name="AR_Palestine" tvg-logo="" group-title="Ar Divers",AR_Palestine
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/188.ts
+#EXTINF:-1 tvg-name="AR_Palestine.Live" tvg-logo="" group-title="Ar Divers",AR_Palestine.Live
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/303.ts
+#EXTINF:-1 tvg-name="AR_Palestine.Today" tvg-logo="" group-title="Ar Divers",AR_Palestine.Today
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/304.ts
+#EXTINF:-1 tvg-name="AR_PALESTINIAN.TV" tvg-logo="" group-title="Ar Divers",AR_PALESTINIAN.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/305.ts
+#EXTINF:-1 tvg-name="AR_Qatar.TV" tvg-logo="" group-title="Ar Divers",AR_Qatar.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/195.ts
+#EXTINF:-1 tvg-name="AR_RAK.TV" tvg-logo="" group-title="Ar Divers",AR_RAK.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/723.ts
+#EXTINF:-1 tvg-name="AR_ROYA" tvg-logo="" group-title="Ar Divers",AR_ROYA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/797.ts
+#EXTINF:-1 tvg-name="AR_Sada.El.Balad" tvg-logo="" group-title="Ar Divers",AR_Sada.El.Balad
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/794.ts
+#EXTINF:-1 tvg-name="AR_SAFA.TV" tvg-logo="" group-title="Ar Divers",AR_SAFA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/307.ts
+#EXTINF:-1 tvg-name="AR_Sahel.TV" tvg-logo="" group-title="Ar Divers",AR_Sahel.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/158.ts
+#EXTINF:-1 tvg-name="AR_Sama.Dubai" tvg-logo="" group-title="Ar Divers",AR_Sama.Dubai
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/308.ts
+#EXTINF:-1 tvg-name="AR_Sama.TV" tvg-logo="" group-title="Ar Divers",AR_Sama.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/198.ts
+#EXTINF:-1 tvg-name="AR_SAMADUBAI" tvg-logo="" group-title="Ar Divers",AR_SAMADUBAI
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/193.ts
+#EXTINF:-1 tvg-name="AR_SAUDI.24" tvg-logo="" group-title="Ar Divers",AR_SAUDI.24
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/703.ts
+#EXTINF:-1 tvg-name="AR_Saudi.Al.Haj" tvg-logo="" group-title="Ar Divers",AR_Saudi.Al.Haj
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/309.ts
+#EXTINF:-1 tvg-name="AR_SAUDI.FAMILY" tvg-logo="" group-title="Ar Divers",AR_SAUDI.FAMILY
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/310.ts
+#EXTINF:-1 tvg-name="AR_Saudi-1" tvg-logo="" group-title="Ar Divers",AR_Saudi-1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/167.ts
+#EXTINF:-1 tvg-name="AR_Saudi-2" tvg-logo="" group-title="Ar Divers",AR_Saudi-2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/774.ts
+#EXTINF:-1 tvg-name="AR_SNTV_HB" tvg-logo="" group-title="Ar Divers",AR_SNTV_HB
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1001.ts
+#EXTINF:-1 tvg-name="AR_Sudan" tvg-logo="" group-title="Ar Divers",AR_Sudan
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/713.ts
+#EXTINF:-1 tvg-name="AR_Sudan.Monawaat" tvg-logo="" group-title="Ar Divers",AR_Sudan.Monawaat
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/311.ts
+#EXTINF:-1 tvg-name="AR_SYRIA.SATELLITE.TV" tvg-logo="" group-title="Ar Divers",AR_SYRIA.SATELLITE.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/197.ts
+#EXTINF:-1 tvg-name="AR_Tanasoh.TV" tvg-logo="" group-title="Ar Divers",AR_Tanasoh.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1029.ts
+#EXTINF:-1 tvg-name="AR_TAWAZON" tvg-logo="" group-title="Ar Divers",AR_TAWAZON
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/312.ts
+#EXTINF:-1 tvg-name="AR_Tayba.TV" tvg-logo="" group-title="Ar Divers",AR_Tayba.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/716.ts
+#EXTINF:-1 tvg-name="AR_WANASAH" tvg-logo="" group-title="Ar Divers",AR_WANASAH
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/722.ts
+#EXTINF:-1 tvg-name="AR_Yemen" tvg-logo="" group-title="Ar Divers",AR_Yemen
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/313.ts
+#EXTINF:-1 tvg-name="AR_YEMEN.SHABAB" tvg-logo="" group-title="Ar Divers",AR_YEMEN.SHABAB
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/314.ts
+#EXTINF:-1 tvg-name="AR_ZINA.TV" tvg-logo="" group-title="Ar Divers",AR_ZINA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/315.ts
+#EXTINF:-1 tvg-name="IT_---Italia---" tvg-logo="" group-title="Sky Italia",IT_---Italia---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8028.ts
+#EXTINF:-1 tvg-name="IT_Sky.Cinema.UNO.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Cinema.UNO.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/635.ts
+#EXTINF:-1 tvg-name="IT_Sky.Cinema.Passion.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Cinema.Passion.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/636.ts
+#EXTINF:-1 tvg-name="IT_Sky.Cinema.Hits.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Cinema.Hits.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/637.ts
+#EXTINF:-1 tvg-name="IT_Sky.Cinema.Cult.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Cinema.Cult.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/638.ts
+#EXTINF:-1 tvg-name="IT_Sky.Cinema.Comedy.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Cinema.Comedy.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/639.ts
+#EXTINF:-1 tvg-name="IT_Sky.Cinema.Classic.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Cinema.Classic.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/640.ts
+#EXTINF:-1 tvg-name="IT_Sky.Atlantic.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Atlantic.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/641.ts
+#EXTINF:-1 tvg-name="IT_Sky.Max.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Max.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/642.ts
+#EXTINF:-1 tvg-name="IT_Sky.Family.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Family.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/643.ts
+#EXTINF:-1 tvg-name="IT_Sky.Uno.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Uno.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/644.ts
+#EXTINF:-1 tvg-name="IT_Fox.HD" tvg-logo="" group-title="Sky Italia",IT_Fox.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/645.ts
+#EXTINF:-1 tvg-name="IT_Fox.Life.HD" tvg-logo="" group-title="Sky Italia",IT_Fox.Life.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/646.ts
+#EXTINF:-1 tvg-name="IT_Fox.Crime.HD" tvg-logo="" group-title="Sky Italia",IT_Fox.Crime.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/647.ts
+#EXTINF:-1 tvg-name="IT_Fox.Animation.HD" tvg-logo="" group-title="Sky Italia",IT_Fox.Animation.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/648.ts
+#EXTINF:-1 tvg-name="IT_E!.Entertainment" tvg-logo="" group-title="Sky Italia",IT_E!.Entertainment
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/649.ts
+#EXTINF:-1 tvg-name="IT_Sky.Sport.1.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Sport.1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/650.ts
+#EXTINF:-1 tvg-name="IT_Sky.Sport.2.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Sport.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/651.ts
+#EXTINF:-1 tvg-name="IT_Sky.Sport.3.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Sport.3.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/652.ts
+#EXTINF:-1 tvg-name="IT_Sky.Fox.Sports.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Fox.Sports.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/653.ts
+#EXTINF:-1 tvg-name="IT_Sky.Sport.F1.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Sport.F1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/654.ts
+#EXTINF:-1 tvg-name="IT_Sky.Supercalcio.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.Supercalcio.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/655.ts
+#EXTINF:-1 tvg-name="IT_Discovery.Channel.HD" tvg-logo="" group-title="Sky Italia",IT_Discovery.Channel.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/656.ts
+#EXTINF:-1 tvg-name="IT_Discovery.Science.HD" tvg-logo="" group-title="Sky Italia",IT_Discovery.Science.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/657.ts
+#EXTINF:-1 tvg-name="IT_Animal.Planet" tvg-logo="" group-title="Sky Italia",IT_Animal.Planet
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/658.ts
+#EXTINF:-1 tvg-name="IT_Sky.History.HD" tvg-logo="" group-title="Sky Italia",IT_Sky.History.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/659.ts
+#EXTINF:-1 tvg-name="IT_Discovery.focus" tvg-logo="" group-title="Sky Italia",IT_Discovery.focus
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/660.ts
+#EXTINF:-1 tvg-name="IT_Discovery.Travel.&amp;.Living.HD" tvg-logo="" group-title="Sky Italia",IT_Discovery.Travel.&amp;.Living.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/661.ts
+#EXTINF:-1 tvg-name="IT_Nat.Geo.Wild.HD" tvg-logo="" group-title="Sky Italia",IT_Nat.Geo.Wild.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/662.ts
+#EXTINF:-1 tvg-name="IT_National.Geo.HD" tvg-logo="" group-title="Sky Italia",IT_National.Geo.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/663.ts
+#EXTINF:-1 tvg-name="IT_Nat.Geo.People.HD" tvg-logo="" group-title="Sky Italia",IT_Nat.Geo.People.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/664.ts
+#EXTINF:-1 tvg-name="IT_Caccia.e.Pesca" tvg-logo="" group-title="Sky Italia",IT_Caccia.e.Pesca
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/665.ts
+#EXTINF:-1 tvg-name="IT_Disney.Channel.HD" tvg-logo="" group-title="Sky Italia",IT_Disney.Channel.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/666.ts
+#EXTINF:-1 tvg-name="IT_Rai.Yoyo" tvg-logo="" group-title="Sky Italia",IT_Rai.Yoyo
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/667.ts
+#EXTINF:-1 tvg-name="IT_Boing" tvg-logo="" group-title="Sky Italia",IT_Boing
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/668.ts
+#EXTINF:-1 tvg-name="IT_Premium.Cinema.HD" tvg-logo="" group-title="Sky Italia",IT_Premium.Cinema.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/669.ts
+#EXTINF:-1 tvg-name="IT_Premium.Cinema.2.HD" tvg-logo="" group-title="Sky Italia",IT_Premium.Cinema.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/670.ts
+#EXTINF:-1 tvg-name="IT_Premium.Crime.HD" tvg-logo="" group-title="Sky Italia",IT_Premium.Crime.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/671.ts
+#EXTINF:-1 tvg-name="IT_Premium.Action.HD" tvg-logo="" group-title="Sky Italia",IT_Premium.Action.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/672.ts
+#EXTINF:-1 tvg-name="IT_Premium.Cinema.Energy" tvg-logo="" group-title="Sky Italia",IT_Premium.Cinema.Energy
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/673.ts
+#EXTINF:-1 tvg-name="IT_Boing" tvg-logo="" group-title="Sky Italia",IT_Boing
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1341.ts
+#EXTINF:-1 tvg-name="IT_Canale.5" tvg-logo="" group-title="Sky Italia",IT_Canale.5
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1309.ts
+#EXTINF:-1 tvg-name="IT_Cartoonito" tvg-logo="" group-title="Sky Italia",IT_Cartoonito
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1343.ts
+#EXTINF:-1 tvg-name="IT_cielo.HD" tvg-logo="" group-title="Sky Italia",IT_cielo.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/426.ts
+#EXTINF:-1 tvg-name="IT_Deejay" tvg-logo="" group-title="Sky Italia",IT_Deejay
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/427.ts
+#EXTINF:-1 tvg-name="IT_DMAX.HD" tvg-logo="" group-title="Sky Italia",IT_DMAX.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/428.ts
+#EXTINF:-1 tvg-name="IT_EUROSPORT.1" tvg-logo="" group-title="Sky Italia",IT_EUROSPORT.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/429.ts
+#EXTINF:-1 tvg-name="IT_Focus" tvg-logo="" group-title="Sky Italia",IT_Focus
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1335.ts
+#EXTINF:-1 tvg-name="IT_Giallo" tvg-logo="" group-title="Sky Italia",IT_Giallo
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1334.ts
+#EXTINF:-1 tvg-name="IT_Italia1" tvg-logo="" group-title="Sky Italia",IT_Italia1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1340.ts
+#EXTINF:-1 tvg-name="IT_Italian.Fishing.Tv" tvg-logo="" group-title="Sky Italia",IT_Italian.Fishing.Tv
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/431.ts
+#EXTINF:-1 tvg-name="IT_JOi" tvg-logo="" group-title="Sky Italia",IT_JOi
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/432.ts
+#EXTINF:-1 tvg-name="IT_La5" tvg-logo="" group-title="Sky Italia",IT_La5
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1311.ts
+#EXTINF:-1 tvg-name="IT_LA7" tvg-logo="" group-title="Sky Italia",IT_LA7
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/433.ts
+#EXTINF:-1 tvg-name="IT_Mediaset.2" tvg-logo="" group-title="Sky Italia",IT_Mediaset.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1312.ts
+#EXTINF:-1 tvg-name="IT_Mediaset.Extra" tvg-logo="" group-title="Sky Italia",IT_Mediaset.Extra
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1314.ts
+#EXTINF:-1 tvg-name="IT_MTV8" tvg-logo="" group-title="Sky Italia",IT_MTV8
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1333.ts
+#EXTINF:-1 tvg-name="IT_NOVE" tvg-logo="" group-title="Sky Italia",IT_NOVE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/434.ts
+#EXTINF:-1 tvg-name="IT_Paramount.Channel.HD" tvg-logo="" group-title="Sky Italia",IT_Paramount.Channel.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/435.ts
+#EXTINF:-1 tvg-name="IT_Rai.1" tvg-logo="" group-title="Sky Italia",IT_Rai.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1316.ts
+#EXTINF:-1 tvg-name="IT_Rai.2" tvg-logo="" group-title="Sky Italia",IT_Rai.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1317.ts
+#EXTINF:-1 tvg-name="IT_Rai.3" tvg-logo="" group-title="Sky Italia",IT_Rai.3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1318.ts
+#EXTINF:-1 tvg-name="IT_Rai.5.HD" tvg-logo="" group-title="Sky Italia",IT_Rai.5.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/436.ts
+#EXTINF:-1 tvg-name="IT_RAI.Gulp" tvg-logo="" group-title="Sky Italia",IT_RAI.Gulp
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1339.ts
+#EXTINF:-1 tvg-name="IT_RAI.Movie" tvg-logo="" group-title="Sky Italia",IT_RAI.Movie
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1331.ts
+#EXTINF:-1 tvg-name="IT_Rai.News" tvg-logo="" group-title="Sky Italia",IT_Rai.News
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1310.ts
+#EXTINF:-1 tvg-name="IT_RAI.Premium" tvg-logo="" group-title="Sky Italia",IT_RAI.Premium
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1337.ts
+#EXTINF:-1 tvg-name="IT_Rai.Sport.1" tvg-logo="" group-title="Sky Italia",IT_Rai.Sport.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1315.ts
+#EXTINF:-1 tvg-name="IT_RAI.Sport2" tvg-logo="" group-title="Sky Italia",IT_RAI.Sport2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1336.ts
+#EXTINF:-1 tvg-name="IT_RAI.Storia" tvg-logo="" group-title="Sky Italia",IT_RAI.Storia
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1338.ts
+#EXTINF:-1 tvg-name="IT_Rai.YoYo.HD" tvg-logo="" group-title="Sky Italia",IT_Rai.YoYo.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/437.ts
+#EXTINF:-1 tvg-name="IT_RAI4" tvg-logo="" group-title="Sky Italia",IT_RAI4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1332.ts
+#EXTINF:-1 tvg-name="IT_Rete.4" tvg-logo="" group-title="Sky Italia",IT_Rete.4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1313.ts
+#EXTINF:-1 tvg-name="IT_RTL.102.5.TV" tvg-logo="" group-title="Sky Italia",IT_RTL.102.5.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/438.ts
+#EXTINF:-1 tvg-name="IT_Sportitalia" tvg-logo="" group-title="Sky Italia",IT_Sportitalia
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/439.ts
+#EXTINF:-1 tvg-name="IT_Studio.Universal" tvg-logo="" group-title="Sky Italia",IT_Studio.Universal
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/441.ts
+#EXTINF:-1 tvg-name="IT_Top.Crime" tvg-logo="" group-title="Sky Italia",IT_Top.Crime
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1342.ts
+#EXTINF:-1 tvg-name="IT_TV2000" tvg-logo="" group-title="Sky Italia",IT_TV2000
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/445.ts
+#EXTINF:-1 tvg-name="IT_Eurosport.2.HD" tvg-logo="" group-title="Sky Italia",IT_Eurosport.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/447.ts
+#EXTINF:-1 tvg-name="IT_Primafila.01" tvg-logo="" group-title="Sky Italia",IT_Primafila.01
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/732.ts
+#EXTINF:-1 tvg-name="IT_Primafila.02" tvg-logo="" group-title="Sky Italia",IT_Primafila.02
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/737.ts
+#EXTINF:-1 tvg-name="IT_Primafila.03" tvg-logo="" group-title="Sky Italia",IT_Primafila.03
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/738.ts
+#EXTINF:-1 tvg-name="IT_Primafila.04" tvg-logo="" group-title="Sky Italia",IT_Primafila.04
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/740.ts
+#EXTINF:-1 tvg-name="IT_Primafila.05" tvg-logo="" group-title="Sky Italia",IT_Primafila.05
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/746.ts
+#EXTINF:-1 tvg-name="IT_Primafila.06" tvg-logo="" group-title="Sky Italia",IT_Primafila.06
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/751.ts
+#EXTINF:-1 tvg-name="IT_Primafila.07" tvg-logo="" group-title="Sky Italia",IT_Primafila.07
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/753.ts
+#EXTINF:-1 tvg-name="IT_Primafila.08" tvg-logo="" group-title="Sky Italia",IT_Primafila.08
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/757.ts
+#EXTINF:-1 tvg-name="IT_Primafila.09" tvg-logo="" group-title="Sky Italia",IT_Primafila.09
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/762.ts
+#EXTINF:-1 tvg-name="IT_Primafila.10" tvg-logo="" group-title="Sky Italia",IT_Primafila.10
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/771.ts
+#EXTINF:-1 tvg-name="IT_Primafila.11" tvg-logo="" group-title="Sky Italia",IT_Primafila.11
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/773.ts
+#EXTINF:-1 tvg-name="IT_Primafila.12" tvg-logo="" group-title="Sky Italia",IT_Primafila.12
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/787.ts
+#EXTINF:-1 tvg-name="IT_Primafila.13" tvg-logo="" group-title="Sky Italia",IT_Primafila.13
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/798.ts
+#EXTINF:-1 tvg-name="IT_Primafila.14" tvg-logo="" group-title="Sky Italia",IT_Primafila.14
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/800.ts
+#EXTINF:-1 tvg-name="IT_Primafila.15" tvg-logo="" group-title="Sky Italia",IT_Primafila.15
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/803.ts
+#EXTINF:-1 tvg-name="IT_Primafila.16" tvg-logo="" group-title="Sky Italia",IT_Primafila.16
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/804.ts
+#EXTINF:-1 tvg-name="IT_Primafila.17" tvg-logo="" group-title="Sky Italia",IT_Primafila.17
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/805.ts
+#EXTINF:-1 tvg-name="IT_Primafila.18" tvg-logo="" group-title="Sky Italia",IT_Primafila.18
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/806.ts
+#EXTINF:-1 tvg-name="IT_Primafila.19" tvg-logo="" group-title="Sky Italia",IT_Primafila.19
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/807.ts
+#EXTINF:-1 tvg-name="IT_Primafila.20" tvg-logo="" group-title="Sky Italia",IT_Primafila.20
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/808.ts
+#EXTINF:-1 tvg-name="IT_Primafila.21" tvg-logo="" group-title="Sky Italia",IT_Primafila.21
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/809.ts
+#EXTINF:-1 tvg-name="IT_Primafila.22" tvg-logo="" group-title="Sky Italia",IT_Primafila.22
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/820.ts
+#EXTINF:-1 tvg-name="IT_Primafila.23" tvg-logo="" group-title="Sky Italia",IT_Primafila.23
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/830.ts
+#EXTINF:-1 tvg-name="IT_Primafila.24" tvg-logo="" group-title="Sky Italia",IT_Primafila.24
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/831.ts
+#EXTINF:-1 tvg-name="IT_Primafila.25" tvg-logo="" group-title="Sky Italia",IT_Primafila.25
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/832.ts
+#EXTINF:-1 tvg-name="IT_Primafila.26" tvg-logo="" group-title="Sky Italia",IT_Primafila.26
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/838.ts
+#EXTINF:-1 tvg-name="IT_Primafila.27" tvg-logo="" group-title="Sky Italia",IT_Primafila.27
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/840.ts
+#EXTINF:-1 tvg-name="IT_Primafila.28" tvg-logo="" group-title="Sky Italia",IT_Primafila.28
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/850.ts
+#EXTINF:-1 tvg-name="IT_Primafila.29" tvg-logo="" group-title="Sky Italia",IT_Primafila.29
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/851.ts
+#EXTINF:-1 tvg-name="IT_Primafila.30" tvg-logo="" group-title="Sky Italia",IT_Primafila.30
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/852.ts
+#EXTINF:-1 tvg-name="DE_---Deutsch---" tvg-logo="" group-title="Sky Deutsch",DE_---Deutsch---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8026.ts
+#EXTINF:-1 tvg-name="DE_13th.Street.HD" tvg-logo="" group-title="Sky Deutsch",DE_13th.Street.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/349.ts
+#EXTINF:-1 tvg-name="DE_3sat" tvg-logo="" group-title="Sky Deutsch",DE_3sat
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/425.ts
+#EXTINF:-1 tvg-name="DE_Discovery" tvg-logo="" group-title="Sky Deutsch",DE_Discovery
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/410.ts
+#EXTINF:-1 tvg-name="DE_Disney" tvg-logo="" group-title="Sky Deutsch",DE_Disney
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/404.ts
+#EXTINF:-1 tvg-name="DE_Disney.Cinemagic.HD" tvg-logo="" group-title="Sky Deutsch",DE_Disney.Cinemagic.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/350.ts
+#EXTINF:-1 tvg-name="DE_Disney.Junior.HD" tvg-logo="" group-title="Sky Deutsch",DE_Disney.Junior.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/351.ts
+#EXTINF:-1 tvg-name="DE_E!.HD" tvg-logo="" group-title="Sky Deutsch",DE_E!.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/352.ts
+#EXTINF:-1 tvg-name="DE_Eurosport.1" tvg-logo="" group-title="Sky Deutsch",DE_Eurosport.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/420.ts
+#EXTINF:-1 tvg-name="DE_Eurosport.2.HD" tvg-logo="" group-title="Sky Deutsch",DE_Eurosport.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/353.ts
+#EXTINF:-1 tvg-name="DE_History.HD" tvg-logo="" group-title="Sky Deutsch",DE_History.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/354.ts
+#EXTINF:-1 tvg-name="DE_kabel.eins.HD" tvg-logo="" group-title="Sky Deutsch",DE_kabel.eins.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/355.ts
+#EXTINF:-1 tvg-name="DE_KiKA" tvg-logo="" group-title="Sky Deutsch",DE_KiKA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/421.ts
+#EXTINF:-1 tvg-name="DE_MGM" tvg-logo="" group-title="Sky Deutsch",DE_MGM
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/356.ts
+#EXTINF:-1 tvg-name="DE_n-tv.HD" tvg-logo="" group-title="Sky Deutsch",DE_n-tv.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/357.ts
+#EXTINF:-1 tvg-name="DE_NatGeo" tvg-logo="" group-title="Sky Deutsch",DE_NatGeo
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/408.ts
+#EXTINF:-1 tvg-name="DE_NatGeo.Wild" tvg-logo="" group-title="Sky Deutsch",DE_NatGeo.Wild
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/409.ts
+#EXTINF:-1 tvg-name="DE_PRO.7.HD" tvg-logo="" group-title="Sky Deutsch",DE_PRO.7.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/358.ts
+#EXTINF:-1 tvg-name="DE_Pro7.MAXX.HD" tvg-logo="" group-title="Sky Deutsch",DE_Pro7.MAXX.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/359.ts
+#EXTINF:-1 tvg-name="DE_RTL.2.CH" tvg-logo="" group-title="Sky Deutsch",DE_RTL.2.CH
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/419.ts
+#EXTINF:-1 tvg-name="DE_RTL.CH" tvg-logo="" group-title="Sky Deutsch",DE_RTL.CH
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/418.ts
+#EXTINF:-1 tvg-name="DE_RTL.Crime" tvg-logo="" group-title="Sky Deutsch",DE_RTL.Crime
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/360.ts
+#EXTINF:-1 tvg-name="DE_SAT.1.HD" tvg-logo="" group-title="Sky Deutsch",DE_SAT.1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/361.ts
+#EXTINF:-1 tvg-name="DE_SIXX" tvg-logo="" group-title="Sky Deutsch",DE_SIXX
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/362.ts
+#EXTINF:-1 tvg-name="DE_Sky.Action" tvg-logo="" group-title="Sky Deutsch",DE_Sky.Action
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/411.ts
+#EXTINF:-1 tvg-name="DE_Sky.Atlantic" tvg-logo="" group-title="Sky Deutsch",DE_Sky.Atlantic
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/402.ts
+#EXTINF:-1 tvg-name="DE_Sky.Bundesliga.1.HD" tvg-logo="" group-title="Sky Deutsch",DE_Sky.Bundesliga.1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/363.ts
+#EXTINF:-1 tvg-name="DE_Sky.Cinema" tvg-logo="" group-title="Sky Deutsch",DE_Sky.Cinema
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/401.ts
+#EXTINF:-1 tvg-name="DE_Sky.Cinema.Hits.HD" tvg-logo="" group-title="Sky Deutsch",DE_Sky.Cinema.Hits.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/364.ts
+#EXTINF:-1 tvg-name="DE_Sky.Sport.1" tvg-logo="" group-title="Sky Deutsch",DE_Sky.Sport.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/365.ts
+#EXTINF:-1 tvg-name="DE_Sky.Sport.HD1" tvg-logo="" group-title="Sky Deutsch",DE_Sky.Sport.HD1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/405.ts
+#EXTINF:-1 tvg-name="DE_Sky.Sport.HD2" tvg-logo="" group-title="Sky Deutsch",DE_Sky.Sport.HD2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/406.ts
+#EXTINF:-1 tvg-name="DE_Sky.Sport.News.HD" tvg-logo="" group-title="Sky Deutsch",DE_Sky.Sport.News.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/366.ts
+#EXTINF:-1 tvg-name="DE_Syfy" tvg-logo="" group-title="Sky Deutsch",DE_Syfy
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/414.ts
+#EXTINF:-1 tvg-name="DE_TNT.Comedy.HD" tvg-logo="" group-title="Sky Deutsch",DE_TNT.Comedy.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/367.ts
+#EXTINF:-1 tvg-name="DE_TNT.Serie.HD" tvg-logo="" group-title="Sky Deutsch",DE_TNT.Serie.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/368.ts
+#EXTINF:-1 tvg-name="DE_Universal.HD" tvg-logo="" group-title="Sky Deutsch",DE_Universal.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/369.ts
+#EXTINF:-1 tvg-name="DE_VOX" tvg-logo="" group-title="Sky Deutsch",DE_VOX
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/415.ts
+#EXTINF:-1 tvg-name="DE_ZDF" tvg-logo="" group-title="Sky Deutsch",DE_ZDF
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/416.ts
+#EXTINF:-1 tvg-name="DE_zdf.kultur.HD" tvg-logo="" group-title="Sky Deutsch",DE_zdf.kultur.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/370.ts
+#EXTINF:-1 tvg-name="DE_zdf_neo.HD" tvg-logo="" group-title="Sky Deutsch",DE_zdf_neo.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/371.ts
+#EXTINF:-1 tvg-name="DE_ZDFinfo" tvg-logo="" group-title="Sky Deutsch",DE_ZDFinfo
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/417.ts
+#EXTINF:-1 tvg-name="UK_---UK---" tvg-logo="" group-title="Sky UK",UK_---UK---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8027.ts
+#EXTINF:-1 tvg-name="UK_ABN" tvg-logo="" group-title="Sky UK",UK_ABN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/372.ts
+#EXTINF:-1 tvg-name="UK_Animal.Planet" tvg-logo="" group-title="Sky UK",UK_Animal.Planet
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/906.ts
+#EXTINF:-1 tvg-name="UK_BBC1" tvg-logo="" group-title="Sky UK",UK_BBC1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/373.ts
+#EXTINF:-1 tvg-name="UK_BBC2" tvg-logo="" group-title="Sky UK",UK_BBC2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/374.ts
+#EXTINF:-1 tvg-name="UK_BBC4" tvg-logo="" group-title="Sky UK",UK_BBC4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/375.ts
+#EXTINF:-1 tvg-name="UK_BT.EXTRA" tvg-logo="" group-title="Sky UK",UK_BT.EXTRA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/376.ts
+#EXTINF:-1 tvg-name="UK_BT.Sport.1.HD" tvg-logo="" group-title="Sky UK",UK_BT.Sport.1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/377.ts
+#EXTINF:-1 tvg-name="UK_BT.Sport.2.HD" tvg-logo="" group-title="Sky UK",UK_BT.Sport.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/378.ts
+#EXTINF:-1 tvg-name="UK_BT.Sport.3.HD" tvg-logo="" group-title="Sky UK",UK_BT.Sport.3.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/379.ts
+#EXTINF:-1 tvg-name="UK_CBBC" tvg-logo="" group-title="Sky UK",UK_CBBC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/380.ts
+#EXTINF:-1 tvg-name="UK_CBS.Action" tvg-logo="" group-title="Sky UK",UK_CBS.Action
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/381.ts
+#EXTINF:-1 tvg-name="UK_CBS.Drama" tvg-logo="" group-title="Sky UK",UK_CBS.Drama
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/382.ts
+#EXTINF:-1 tvg-name="UK_CBS.Reality" tvg-logo="" group-title="Sky UK",UK_CBS.Reality
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/383.ts
+#EXTINF:-1 tvg-name="UK_Channels.24" tvg-logo="" group-title="Sky UK",UK_Channels.24
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/384.ts
+#EXTINF:-1 tvg-name="UK_CITV" tvg-logo="" group-title="Sky UK",UK_CITV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/385.ts
+#EXTINF:-1 tvg-name="UK_CNBC" tvg-logo="" group-title="Sky UK",UK_CNBC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/386.ts
+#EXTINF:-1 tvg-name="UK_Disc.Science" tvg-logo="" group-title="Sky UK",UK_Disc.Science
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/387.ts
+#EXTINF:-1 tvg-name="UK_Discovery" tvg-logo="" group-title="Sky UK",UK_Discovery
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/935.ts
+#EXTINF:-1 tvg-name="UK_Discovery.History" tvg-logo="" group-title="Sky UK",UK_Discovery.History
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/934.ts
+#EXTINF:-1 tvg-name="UK_Discovery.Science" tvg-logo="" group-title="Sky UK",UK_Discovery.Science
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/923.ts
+#EXTINF:-1 tvg-name="UK_Disney.Junior" tvg-logo="" group-title="Sky UK",UK_Disney.Junior
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/936.ts
+#EXTINF:-1 tvg-name="UK_Disney" tvg-logo="" group-title="Sky UK",UK_Disney
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/957.ts
+#EXTINF:-1 tvg-name="UK_Disney.XD" tvg-logo="" group-title="Sky UK",UK_Disney.XD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/388.ts
+#EXTINF:-1 tvg-name="UK_ESPN" tvg-logo="" group-title="Sky UK",UK_ESPN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/389.ts
+#EXTINF:-1 tvg-name="UK_FOTV" tvg-logo="" group-title="Sky UK",UK_FOTV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/390.ts
+#EXTINF:-1 tvg-name="UK_FOX" tvg-logo="" group-title="Sky UK",UK_FOX
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/905.ts
+#EXTINF:-1 tvg-name="UK_Horse.&amp;.Country" tvg-logo="" group-title="Sky UK",UK_Horse.&amp;.Country
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/391.ts
+#EXTINF:-1 tvg-name="UK_Informationtv" tvg-logo="" group-title="Sky UK",UK_Informationtv
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/392.ts
+#EXTINF:-1 tvg-name="UK_ITV.HD" tvg-logo="" group-title="Sky UK",UK_ITV.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/393.ts
+#EXTINF:-1 tvg-name="UK_ITV2.HD" tvg-logo="" group-title="Sky UK",UK_ITV2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/394.ts
+#EXTINF:-1 tvg-name="UK_ITV4.HD" tvg-logo="" group-title="Sky UK",UK_ITV4.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/395.ts
+#EXTINF:-1 tvg-name="UK_ITVBe" tvg-logo="" group-title="Sky UK",UK_ITVBe
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/396.ts
+#EXTINF:-1 tvg-name="UK_Movies4men" tvg-logo="" group-title="Sky UK",UK_Movies4men
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/397.ts
+#EXTINF:-1 tvg-name="UK_Premier.Sports" tvg-logo="" group-title="Sky UK",UK_Premier.Sports
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/398.ts
+#EXTINF:-1 tvg-name="UK_S4C.Digidol" tvg-logo="" group-title="Sky UK",UK_S4C.Digidol
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/399.ts
+#EXTINF:-1 tvg-name="UK_Setanta" tvg-logo="" group-title="Sky UK",UK_Setanta
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/403.ts
+#EXTINF:-1 tvg-name="UK_Setanta.Sports.1" tvg-logo="" group-title="Sky UK",UK_Setanta.Sports.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/407.ts
+#EXTINF:-1 tvg-name="UK_Sky.Action" tvg-logo="" group-title="Sky UK",UK_Sky.Action
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/917.ts
+#EXTINF:-1 tvg-name="UK_Sky.Comedy" tvg-logo="" group-title="Sky UK",UK_Sky.Comedy
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/919.ts
+#EXTINF:-1 tvg-name="UK_Sky.Disney" tvg-logo="" group-title="Sky UK",UK_Sky.Disney
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/958.ts
+#EXTINF:-1 tvg-name="UK_Sky.Family" tvg-logo="" group-title="Sky UK",UK_Sky.Family
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/924.ts
+#EXTINF:-1 tvg-name="UK_Sky.Horror" tvg-logo="" group-title="Sky UK",UK_Sky.Horror
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/412.ts
+#EXTINF:-1 tvg-name="UK_Sky.Living" tvg-logo="" group-title="Sky UK",UK_Sky.Living
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/925.ts
+#EXTINF:-1 tvg-name="UK_Sky.Premiere" tvg-logo="" group-title="Sky UK",UK_Sky.Premiere
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/907.ts
+#EXTINF:-1 tvg-name="UK_Sky.Select" tvg-logo="" group-title="Sky UK",UK_Sky.Select
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/909.ts
+#EXTINF:-1 tvg-name="UK_Sky.Showcase" tvg-logo="" group-title="Sky UK",UK_Sky.Showcase
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/918.ts
+#EXTINF:-1 tvg-name="UK_Sky.Sports.1" tvg-logo="" group-title="Sky UK",UK_Sky.Sports.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/922.ts
+#EXTINF:-1 tvg-name="UK_Sky.Sports.2" tvg-logo="" group-title="Sky UK",UK_Sky.Sports.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/937.ts
+#EXTINF:-1 tvg-name="UK_Sky.Sports.3" tvg-logo="" group-title="Sky UK",UK_Sky.Sports.3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/914.ts
+#EXTINF:-1 tvg-name="UK_Sky.Sports.4" tvg-logo="" group-title="Sky UK",UK_Sky.Sports.4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/915.ts
+#EXTINF:-1 tvg-name="UK_Sky.Sports.5" tvg-logo="" group-title="Sky UK",UK_Sky.Sports.5
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/916.ts
+#EXTINF:-1 tvg-name="UK_Sky1" tvg-logo="" group-title="Sky UK",UK_Sky1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/413.ts
+#EXTINF:-1 tvg-name="UK_Sky2" tvg-logo="" group-title="Sky UK",UK_Sky2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/422.ts
+#EXTINF:-1 tvg-name="UK_SyFy.Channel" tvg-logo="" group-title="Sky UK",UK_SyFy.Channel
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/908.ts
+#EXTINF:-1 tvg-name="UK_TLC" tvg-logo="" group-title="Sky UK",UK_TLC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/956.ts
+#EXTINF:-1 tvg-name="UK_Travel.Channel" tvg-logo="" group-title="Sky UK",UK_Travel.Channel
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/423.ts
+#EXTINF:-1 tvg-name="UK_Tru.TV" tvg-logo="" group-title="Sky UK",UK_Tru.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/424.ts
+#EXTINF:-1 tvg-name="OS_---OSN---" tvg-logo="" group-title="OSN",OS_---OSN---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8024.ts
+#EXTINF:-1 tvg-name="OS_OSN" tvg-logo="" group-title="OSN",OS_OSN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/18.ts
+#EXTINF:-1 tvg-name="OS_OSN1" tvg-logo="" group-title="OSN",OS_OSN1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/17.ts
+#EXTINF:-1 tvg-name="OS_OSN2" tvg-logo="" group-title="OSN",OS_OSN2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/20.ts
+#EXTINF:-1 tvg-name="OS_OSN3" tvg-logo="" group-title="OSN",OS_OSN3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/19.ts
+#EXTINF:-1 tvg-name="OS_OSN.ON.DEMAND.1" tvg-logo="" group-title="OSN",OS_OSN.ON.DEMAND.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/900.ts
+#EXTINF:-1 tvg-name="OS_OSN.ON.DEMAND.2" tvg-logo="" group-title="OSN",OS_OSN.ON.DEMAND.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/901.ts
+#EXTINF:-1 tvg-name="OS_OSN.ON.DEMAND.3" tvg-logo="" group-title="OSN",OS_OSN.ON.DEMAND.3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/902.ts
+#EXTINF:-1 tvg-name="OS_OSN.ON.DEMAND.4" tvg-logo="" group-title="OSN",OS_OSN.ON.DEMAND.4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/903.ts
+#EXTINF:-1 tvg-name="OS_YAHALA.HD" tvg-logo="" group-title="OSN",OS_YAHALA.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/501.ts
+#EXTINF:-1 tvg-name="MY_---myHD---" tvg-logo="" group-title="myHD",MY_---myHD---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8025.ts
+#EXTINF:-1 tvg-name="MY_Animal.Planet.HD" tvg-logo="" group-title="myHD",MY_Animal.Planet.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1104.ts
+#EXTINF:-1 tvg-name="MY_Discovery.Sc.HD" tvg-logo="" group-title="myHD",MY_Discovery.Sc.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1103.ts
+#EXTINF:-1 tvg-name="MY_DocuBOX.HD" tvg-logo="" group-title="myHD",MY_DocuBOX.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1105.ts
+#EXTINF:-1 tvg-name="MY_FightBOX.HD" tvg-logo="" group-title="myHD",MY_FightBOX.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1100.ts
+#EXTINF:-1 tvg-name="MY_Fix.&amp;.Foxi" tvg-logo="" group-title="myHD",MY_Fix.&amp;.Foxi
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/340.ts
+#EXTINF:-1 tvg-name="MY_Fox.Action.Movies" tvg-logo="" group-title="myHD",MY_Fox.Action.Movies
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/341.ts
+#EXTINF:-1 tvg-name="MY_FOX.Family.HD" tvg-logo="" group-title="myHD",MY_FOX.Family.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/342.ts
+#EXTINF:-1 tvg-name="MY_FX.HD" tvg-logo="" group-title="myHD",MY_FX.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/343.ts
+#EXTINF:-1 tvg-name="MY_H2.HD" tvg-logo="" group-title="myHD",MY_H2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1101.ts
+#EXTINF:-1 tvg-name="MY_MBC.Action.HD" tvg-logo="" group-title="myHD",MY_MBC.Action.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1109.ts
+#EXTINF:-1 tvg-name="MY_MBC.Drama.HD" tvg-logo="" group-title="myHD",MY_MBC.Drama.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/344.ts
+#EXTINF:-1 tvg-name="MY_MBC.Max.HD" tvg-logo="" group-title="myHD",MY_MBC.Max.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/345.ts
+#EXTINF:-1 tvg-name="MY_MBC.P.VARIETY" tvg-logo="" group-title="myHD",MY_MBC.P.VARIETY
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1102.ts
+#EXTINF:-1 tvg-name="MY_MBC.Pro.Sports.1" tvg-logo="" group-title="myHD",MY_MBC.Pro.Sports.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/823.ts
+#EXTINF:-1 tvg-name="MY_MBC.Pro.Sports.2" tvg-logo="" group-title="myHD",MY_MBC.Pro.Sports.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/824.ts
+#EXTINF:-1 tvg-name="MY_MBC.Pro.Sports.3" tvg-logo="" group-title="myHD",MY_MBC.Pro.Sports.3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/825.ts
+#EXTINF:-1 tvg-name="MY_MBC.Pro.Sports.4" tvg-logo="" group-title="myHD",MY_MBC.Pro.Sports.4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/826.ts
+#EXTINF:-1 tvg-name="MY_MBC1.HD" tvg-logo="" group-title="myHD",MY_MBC1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/827.ts
+#EXTINF:-1 tvg-name="MY_MBC2.HD" tvg-logo="" group-title="myHD",MY_MBC2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/828.ts
+#EXTINF:-1 tvg-name="MY_MBC3.HD" tvg-logo="" group-title="myHD",MY_MBC3.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/346.ts
+#EXTINF:-1 tvg-name="MY_MBC4.HD" tvg-logo="" group-title="myHD",MY_MBC4.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/829.ts
+#EXTINF:-1 tvg-name="MY_Echourouk.TV.HD" tvg-logo="" group-title="myHD",MY_Echourouk.TV.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/347.ts
+#EXTINF:-1 tvg-name="MY_Myme.TV" tvg-logo="" group-title="myHD",MY_Myme.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/348.ts
+#EXTINF:-1 tvg-name="ES_---Espania---" tvg-logo="" group-title="Digital+",ES_---Espania---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8029.ts
+#EXTINF:-1 tvg-name="ES_40-TV" tvg-logo="" group-title="Digital+",ES_40-TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1203.ts
+#EXTINF:-1 tvg-name="ES_AMC" tvg-logo="" group-title="Digital+",ES_AMC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/448.ts
+#EXTINF:-1 tvg-name="ES_ANTENA.3" tvg-logo="" group-title="Digital+",ES_ANTENA.3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/449.ts
+#EXTINF:-1 tvg-name="ES_AXN" tvg-logo="" group-title="Digital+",ES_AXN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/450.ts
+#EXTINF:-1 tvg-name="ES_BARÃ‡A.TV" tvg-logo="" group-title="Digital+",ES_BARÃ‡A.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/451.ts
+#EXTINF:-1 tvg-name="ES_BEIN.SPORTS" tvg-logo="" group-title="Digital+",ES_BEIN.SPORTS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/454.ts
+#EXTINF:-1 tvg-name="ES_BOING" tvg-logo="" group-title="Digital+",ES_BOING
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/455.ts
+#EXTINF:-1 tvg-name="ES_C+.XTRA.HD" tvg-logo="" group-title="Digital+",ES_C+.XTRA.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1210.ts
+#EXTINF:-1 tvg-name="ES_CALLE.13.HD" tvg-logo="" group-title="Digital+",ES_CALLE.13.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/456.ts
+#EXTINF:-1 tvg-name="ES_CANAL.COCINA.S" tvg-logo="" group-title="Digital+",ES_CANAL.COCINA.S
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1209.ts
+#EXTINF:-1 tvg-name="ES_CANAL.PANDA" tvg-logo="" group-title="Digital+",ES_CANAL.PANDA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/458.ts
+#EXTINF:-1 tvg-name="ES_Canaly.movi" tvg-logo="" group-title="Digital+",ES_Canaly.movi
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/465.ts
+#EXTINF:-1 tvg-name="ES_COSMO.HD" tvg-logo="" group-title="Digital+",ES_COSMO.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/466.ts
+#EXTINF:-1 tvg-name="ES_CUATRO" tvg-logo="" group-title="Digital+",ES_CUATRO
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1212.ts
+#EXTINF:-1 tvg-name="ES_DISNEY.SP" tvg-logo="" group-title="Digital+",ES_DISNEY.SP
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1201.ts
+#EXTINF:-1 tvg-name="ES_DMAX.HD" tvg-logo="" group-title="Digital+",ES_DMAX.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/472.ts
+#EXTINF:-1 tvg-name="ES_EUROSPORT.1" tvg-logo="" group-title="Digital+",ES_EUROSPORT.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/473.ts
+#EXTINF:-1 tvg-name="ES_FOX.HD" tvg-logo="" group-title="Digital+",ES_FOX.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/482.ts
+#EXTINF:-1 tvg-name="ES_FOX.LIFE.HD" tvg-logo="" group-title="Digital+",ES_FOX.LIFE.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/484.ts
+#EXTINF:-1 tvg-name="ES_FOX.NEWS" tvg-logo="" group-title="Digital+",ES_FOX.NEWS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/489.ts
+#EXTINF:-1 tvg-name="ES_GOL" tvg-logo="" group-title="Digital+",ES_GOL
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/490.ts
+#EXTINF:-1 tvg-name="ES_HOLLYWOOD.HD" tvg-logo="" group-title="Digital+",ES_HOLLYWOOD.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1211.ts
+#EXTINF:-1 tvg-name="ES_Junior" tvg-logo="" group-title="Digital+",ES_Junior
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/500.ts
+#EXTINF:-1 tvg-name="ES_LA.1" tvg-logo="" group-title="Digital+",ES_LA.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1213.ts
+#EXTINF:-1 tvg-name="ES_LA.2" tvg-logo="" group-title="Digital+",ES_LA.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1214.ts
+#EXTINF:-1 tvg-name="ES_LA.SEXTA" tvg-logo="" group-title="Digital+",ES_LA.SEXTA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/502.ts
+#EXTINF:-1 tvg-name="ES_LALIGATV.BAR" tvg-logo="" group-title="Digital+",ES_LALIGATV.BAR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/505.ts
+#EXTINF:-1 tvg-name="ES_M.ACCION.HD" tvg-logo="" group-title="Digital+",ES_M.ACCION.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/506.ts
+#EXTINF:-1 tvg-name="ES_M.COMEDIA" tvg-logo="" group-title="Digital+",ES_M.COMEDIA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/507.ts
+#EXTINF:-1 tvg-name="ES_M.DCINE.HD" tvg-logo="" group-title="Digital+",ES_M.DCINE.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/508.ts
+#EXTINF:-1 tvg-name="ES_M.DEP.2.HD" tvg-logo="" group-title="Digital+",ES_M.DEP.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/509.ts
+#EXTINF:-1 tvg-name="ES_M.ESTRENOS" tvg-logo="" group-title="Digital+",ES_M.ESTRENOS
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/518.ts
+#EXTINF:-1 tvg-name="ES_M.FUTBOL.HD" tvg-logo="" group-title="Digital+",ES_M.FUTBOL.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/521.ts
+#EXTINF:-1 tvg-name="ES_M.GOLF.HD" tvg-logo="" group-title="Digital+",ES_M.GOLF.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/522.ts
+#EXTINF:-1 tvg-name="ES_M.SERIES.HD" tvg-logo="" group-title="Digital+",ES_M.SERIES.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/523.ts
+#EXTINF:-1 tvg-name="ES_MTV" tvg-logo="" group-title="Digital+",ES_MTV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/524.ts
+#EXTINF:-1 tvg-name="ES_NAT.GEO.HD" tvg-logo="" group-title="Digital+",ES_NAT.GEO.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1216.ts
+#EXTINF:-1 tvg-name="ES_NAT.GEO.WILD" tvg-logo="" group-title="Digital+",ES_NAT.GEO.WILD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/525.ts
+#EXTINF:-1 tvg-name="ES_NEOX" tvg-logo="" group-title="Digital+",ES_NEOX
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/526.ts
+#EXTINF:-1 tvg-name="ES_Nickelodeon" tvg-logo="" group-title="Digital+",ES_Nickelodeon
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/527.ts
+#EXTINF:-1 tvg-name="ES_NOVA" tvg-logo="" group-title="Digital+",ES_NOVA
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/528.ts
+#EXTINF:-1 tvg-name="ES_PARAMOUNT" tvg-logo="" group-title="Digital+",ES_PARAMOUNT
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/529.ts
+#EXTINF:-1 tvg-name="ES_Real.Madrid.TV" tvg-logo="" group-title="Digital+",ES_Real.Madrid.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/530.ts
+#EXTINF:-1 tvg-name="ES_SYFY.HD" tvg-logo="" group-title="Digital+",ES_SYFY.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/531.ts
+#EXTINF:-1 tvg-name="ES_TCM.SP" tvg-logo="" group-title="Digital+",ES_TCM.SP
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1204.ts
+#EXTINF:-1 tvg-name="ES_TELE.DEPORTE.SP" tvg-logo="" group-title="Digital+",ES_TELE.DEPORTE.SP
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1208.ts
+#EXTINF:-1 tvg-name="ES_TELECINCO" tvg-logo="" group-title="Digital+",ES_TELECINCO
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1217.ts
+#EXTINF:-1 tvg-name="ES_TNT.HD" tvg-logo="" group-title="Digital+",ES_TNT.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/532.ts
+#EXTINF:-1 tvg-name="ES_TOROS.TV.HD" tvg-logo="" group-title="Digital+",ES_TOROS.TV.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/533.ts
+#EXTINF:-1 tvg-name="ES_VIAJAR.SP" tvg-logo="" group-title="Digital+",ES_VIAJAR.SP
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1206.ts
+#EXTINF:-1 tvg-name="PL_---Polska---" tvg-logo="" group-title="Cyfra+",PL_---Polska---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8030.ts
+#EXTINF:-1 tvg-name="PL_Ale.kino+" tvg-logo="" group-title="Cyfra+",PL_Ale.kino+
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1409.ts
+#EXTINF:-1 tvg-name="PL_AMC" tvg-logo="" group-title="Cyfra+",PL_AMC
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/534.ts
+#EXTINF:-1 tvg-name="PL_CANAL+" tvg-logo="" group-title="Cyfra+",PL_CANAL+
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1412.ts
+#EXTINF:-1 tvg-name="PL_CANAL+.FAMILY.HD" tvg-logo="" group-title="Cyfra+",PL_CANAL+.FAMILY.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/535.ts
+#EXTINF:-1 tvg-name="PL_CANAL+.FILM.HD" tvg-logo="" group-title="Cyfra+",PL_CANAL+.FILM.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/536.ts
+#EXTINF:-1 tvg-name="PL_CANAL+.SERIALE.HD" tvg-logo="" group-title="Cyfra+",PL_CANAL+.SERIALE.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/537.ts
+#EXTINF:-1 tvg-name="PL_CANAL+.SPORT" tvg-logo="" group-title="Cyfra+",PL_CANAL+.SPORT
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1413.ts
+#EXTINF:-1 tvg-name="PL_Discovery.HD" tvg-logo="" group-title="Cyfra+",PL_Discovery.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/538.ts
+#EXTINF:-1 tvg-name="PL_Fox.Comedy.HD" tvg-logo="" group-title="Cyfra+",PL_Fox.Comedy.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/539.ts
+#EXTINF:-1 tvg-name="PL_FOX.HD" tvg-logo="" group-title="Cyfra+",PL_FOX.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/540.ts
+#EXTINF:-1 tvg-name="PL_Kuchnia+" tvg-logo="" group-title="Cyfra+",PL_Kuchnia+
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1414.ts
+#EXTINF:-1 tvg-name="PL_MiniMini+.HD" tvg-logo="" group-title="Cyfra+",PL_MiniMini+.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1402.ts
+#EXTINF:-1 tvg-name="PL_NATIONAL.GEO.HD" tvg-logo="" group-title="Cyfra+",PL_NATIONAL.GEO.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1416.ts
+#EXTINF:-1 tvg-name="PL_nSport+" tvg-logo="" group-title="Cyfra+",PL_nSport+
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1400.ts
+#EXTINF:-1 tvg-name="PL_Polsat.2.HD" tvg-logo="" group-title="Cyfra+",PL_Polsat.2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/541.ts
+#EXTINF:-1 tvg-name="PL_Polsat.Cafe.HD" tvg-logo="" group-title="Cyfra+",PL_Polsat.Cafe.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/542.ts
+#EXTINF:-1 tvg-name="PL_Polsat.HD" tvg-logo="" group-title="Cyfra+",PL_Polsat.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1405.ts
+#EXTINF:-1 tvg-name="PL_Polsat.Play.HD" tvg-logo="" group-title="Cyfra+",PL_Polsat.Play.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/543.ts
+#EXTINF:-1 tvg-name="PL_teleTOON+" tvg-logo="" group-title="Cyfra+",PL_teleTOON+
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1415.ts
+#EXTINF:-1 tvg-name="PL_TV4.HD" tvg-logo="" group-title="Cyfra+",PL_TV4.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1404.ts
+#EXTINF:-1 tvg-name="PL_TVP.1" tvg-logo="" group-title="Cyfra+",PL_TVP.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1410.ts
+#EXTINF:-1 tvg-name="PL_TVP.2" tvg-logo="" group-title="Cyfra+",PL_TVP.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1411.ts
+#EXTINF:-1 tvg-name="TR_---Turkey---" tvg-logo="" group-title="Digiturk",TR_---Turkey---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8031.ts
+#EXTINF:-1 tvg-name="TR_360" tvg-logo="" group-title="Digiturk",TR_360
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1384.ts
+#EXTINF:-1 tvg-name="TR_BEYAZ.TV" tvg-logo="" group-title="Digiturk",TR_BEYAZ.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/544.ts
+#EXTINF:-1 tvg-name="TR_BLOOMBERG" tvg-logo="" group-title="Digiturk",TR_BLOOMBERG
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/545.ts
+#EXTINF:-1 tvg-name="TR_BRT.HD" tvg-logo="" group-title="Digiturk",TR_BRT.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/546.ts
+#EXTINF:-1 tvg-name="TR_CAY.TV" tvg-logo="" group-title="Digiturk",TR_CAY.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/547.ts
+#EXTINF:-1 tvg-name="TR_CNN" tvg-logo="" group-title="Digiturk",TR_CNN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/548.ts
+#EXTINF:-1 tvg-name="TR_DREAM.TV" tvg-logo="" group-title="Digiturk",TR_DREAM.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/549.ts
+#EXTINF:-1 tvg-name="TR_EGE.TV" tvg-logo="" group-title="Digiturk",TR_EGE.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/550.ts
+#EXTINF:-1 tvg-name="TR_EURO.D" tvg-logo="" group-title="Digiturk",TR_EURO.D
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/551.ts
+#EXTINF:-1 tvg-name="TR_EUROSTAR" tvg-logo="" group-title="Digiturk",TR_EUROSTAR
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/552.ts
+#EXTINF:-1 tvg-name="TR_FLASH.TV" tvg-logo="" group-title="Digiturk",TR_FLASH.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/553.ts
+#EXTINF:-1 tvg-name="TR_GENC.TV" tvg-logo="" group-title="Digiturk",TR_GENC.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/554.ts
+#EXTINF:-1 tvg-name="TR_HABERTURK" tvg-logo="" group-title="Digiturk",TR_HABERTURK
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/555.ts
+#EXTINF:-1 tvg-name="TR_KANAL..T" tvg-logo="" group-title="Digiturk",TR_KANAL..T
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/556.ts
+#EXTINF:-1 tvg-name="TR_Kanal.7.avrupa" tvg-logo="" group-title="Digiturk",TR_Kanal.7.avrupa
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/557.ts
+#EXTINF:-1 tvg-name="TR_KANAL.A.HD" tvg-logo="" group-title="Digiturk",TR_KANAL.A.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/558.ts
+#EXTINF:-1 tvg-name="TR_MELTEM.TV" tvg-logo="" group-title="Digiturk",TR_MELTEM.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/559.ts
+#EXTINF:-1 tvg-name="TR_MESAJ.TV" tvg-logo="" group-title="Digiturk",TR_MESAJ.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/560.ts
+#EXTINF:-1 tvg-name="TR_NR1.HD" tvg-logo="" group-title="Digiturk",TR_NR1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/561.ts
+#EXTINF:-1 tvg-name="TR_NR1.TURK.TV" tvg-logo="" group-title="Digiturk",TR_NR1.TURK.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/562.ts
+#EXTINF:-1 tvg-name="TR_NTV" tvg-logo="" group-title="Digiturk",TR_NTV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/563.ts
+#EXTINF:-1 tvg-name="TR_PLANET.COCUK" tvg-logo="" group-title="Digiturk",TR_PLANET.COCUK
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/564.ts
+#EXTINF:-1 tvg-name="TR_PLANET.MUTFAK" tvg-logo="" group-title="Digiturk",TR_PLANET.MUTFAK
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/565.ts
+#EXTINF:-1 tvg-name="TR_PLANET.PEMBE" tvg-logo="" group-title="Digiturk",TR_PLANET.PEMBE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/566.ts
+#EXTINF:-1 tvg-name="TR_PLANET.TURK" tvg-logo="" group-title="Digiturk",TR_PLANET.TURK
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/567.ts
+#EXTINF:-1 tvg-name="TR_POWER.TV" tvg-logo="" group-title="Digiturk",TR_POWER.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/568.ts
+#EXTINF:-1 tvg-name="TR_POWERTURK.HD" tvg-logo="" group-title="Digiturk",TR_POWERTURK.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/570.ts
+#EXTINF:-1 tvg-name="TR_SALON.1" tvg-logo="" group-title="Digiturk",TR_SALON.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1350.ts
+#EXTINF:-1 tvg-name="TR_SALON.2" tvg-logo="" group-title="Digiturk",TR_SALON.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/571.ts
+#EXTINF:-1 tvg-name="TR_SALON.3" tvg-logo="" group-title="Digiturk",TR_SALON.3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1352.ts
+#EXTINF:-1 tvg-name="TR_SEMERKAND.HD" tvg-logo="" group-title="Digiturk",TR_SEMERKAND.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/572.ts
+#EXTINF:-1 tvg-name="TR_SEYMEN.TV" tvg-logo="" group-title="Digiturk",TR_SEYMEN.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/573.ts
+#EXTINF:-1 tvg-name="TR_SHOWMAX" tvg-logo="" group-title="Digiturk",TR_SHOWMAX
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/574.ts
+#EXTINF:-1 tvg-name="TR_TGRT.BELGESEL" tvg-logo="" group-title="Digiturk",TR_TGRT.BELGESEL
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/575.ts
+#EXTINF:-1 tvg-name="TR_TGRT.EU" tvg-logo="" group-title="Digiturk",TR_TGRT.EU
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/576.ts
+#EXTINF:-1 tvg-name="TR_TGRT.HABER" tvg-logo="" group-title="Digiturk",TR_TGRT.HABER
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/577.ts
+#EXTINF:-1 tvg-name="TR_TRT.BELGESEL" tvg-logo="" group-title="Digiturk",TR_TRT.BELGESEL
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/578.ts
+#EXTINF:-1 tvg-name="TR_TRT.COCUK" tvg-logo="" group-title="Digiturk",TR_TRT.COCUK
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1366.ts
+#EXTINF:-1 tvg-name="TR_TRT.HABER" tvg-logo="" group-title="Digiturk",TR_TRT.HABER
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1364.ts
+#EXTINF:-1 tvg-name="TR_TRT.MUZIK" tvg-logo="" group-title="Digiturk",TR_TRT.MUZIK
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1365.ts
+#EXTINF:-1 tvg-name="TR_TRT.OKUL" tvg-logo="" group-title="Digiturk",TR_TRT.OKUL
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/579.ts
+#EXTINF:-1 tvg-name="TR_TRT.SPOR.HD" tvg-logo="" group-title="Digiturk",TR_TRT.SPOR.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/580.ts
+#EXTINF:-1 tvg-name="TR_TRT.World.HD" tvg-logo="" group-title="Digiturk",TR_TRT.World.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/581.ts
+#EXTINF:-1 tvg-name="TR_TRT1.HD" tvg-logo="" group-title="Digiturk",TR_TRT1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1359.ts
+#EXTINF:-1 tvg-name="TR_TRT_ELARABIYE" tvg-logo="" group-title="Digiturk",TR_TRT_ELARABIYE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/459.ts
+#EXTINF:-1 tvg-name="TR_Turkmeneli" tvg-logo="" group-title="Digiturk",TR_Turkmeneli
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/174.ts
+#EXTINF:-1 tvg-name="TR_TV2" tvg-logo="" group-title="Digiturk",TR_TV2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/582.ts
+#EXTINF:-1 tvg-name="TR_TV24" tvg-logo="" group-title="Digiturk",TR_TV24
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/583.ts
+#EXTINF:-1 tvg-name="TR_TV4" tvg-logo="" group-title="Digiturk",TR_TV4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/584.ts
+#EXTINF:-1 tvg-name="TR_TV8" tvg-logo="" group-title="Digiturk",TR_TV8
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/585.ts
+#EXTINF:-1 tvg-name="TR_TVNET" tvg-logo="" group-title="Digiturk",TR_TVNET
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/586.ts
+#EXTINF:-1 tvg-name="TR_ULKE.TV" tvg-logo="" group-title="Digiturk",TR_ULKE.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/587.ts
+#EXTINF:-1 tvg-name="TR_VIVA.TV" tvg-logo="" group-title="Digiturk",TR_VIVA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/588.ts
+#EXTINF:-1 tvg-name="TR_YASIN.TV" tvg-logo="" group-title="Digiturk",TR_YASIN.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/589.ts
+#EXTINF:-1 tvg-name="TR_SHOW.TV" tvg-logo="" group-title="Digiturk",TR_SHOW.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/590.ts
+#EXTINF:-1 tvg-name="KR_---Kurdistan---" tvg-logo="" group-title="Kurdistan",KR_---Kurdistan---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8032.ts
+#EXTINF:-1 tvg-name="KR_Al-Turkmenia.TV" tvg-logo="" group-title="Kurdistan",KR_Al-Turkmenia.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/835.ts
+#EXTINF:-1 tvg-name="KR_CIRA.TV" tvg-logo="" group-title="Kurdistan",KR_CIRA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/591.ts
+#EXTINF:-1 tvg-name="KR_Gali.Kurdistan" tvg-logo="" group-title="Kurdistan",KR_Gali.Kurdistan
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/813.ts
+#EXTINF:-1 tvg-name="KR_Kanal.4" tvg-logo="" group-title="Kurdistan",KR_Kanal.4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/814.ts
+#EXTINF:-1 tvg-name="KR_KNN" tvg-logo="" group-title="Kurdistan",KR_KNN
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/815.ts
+#EXTINF:-1 tvg-name="KR_Korek.TV" tvg-logo="" group-title="Kurdistan",KR_Korek.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/592.ts
+#EXTINF:-1 tvg-name="KR_KURDISTAN.TV" tvg-logo="" group-title="Kurdistan",KR_KURDISTAN.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/816.ts
+#EXTINF:-1 tvg-name="KR_KURDMAX" tvg-logo="" group-title="Kurdistan",KR_KURDMAX
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/817.ts
+#EXTINF:-1 tvg-name="KR_Kurdmax.Pepule" tvg-logo="" group-title="Kurdistan",KR_Kurdmax.Pepule
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/593.ts
+#EXTINF:-1 tvg-name="KR_KurdSat" tvg-logo="" group-title="Kurdistan",KR_KurdSat
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/818.ts
+#EXTINF:-1 tvg-name="KR_Kurdsat.News" tvg-logo="" group-title="Kurdistan",KR_Kurdsat.News
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/594.ts
+#EXTINF:-1 tvg-name="KR_Kurdsat.News.Channel" tvg-logo="" group-title="Kurdistan",KR_Kurdsat.News.Channel
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/595.ts
+#EXTINF:-1 tvg-name="KR_Med.Music" tvg-logo="" group-title="Kurdistan",KR_Med.Music
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/596.ts
+#EXTINF:-1 tvg-name="KR_net.TV" tvg-logo="" group-title="Kurdistan",KR_net.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/597.ts
+#EXTINF:-1 tvg-name="KR_Newroz" tvg-logo="" group-title="Kurdistan",KR_Newroz
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/598.ts
+#EXTINF:-1 tvg-name="KR_NRT1.HD" tvg-logo="" group-title="Kurdistan",KR_NRT1.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/599.ts
+#EXTINF:-1 tvg-name="KR_NRT2.HD" tvg-logo="" group-title="Kurdistan",KR_NRT2.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/600.ts
+#EXTINF:-1 tvg-name="KR_PELISTANK" tvg-logo="" group-title="Kurdistan",KR_PELISTANK
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/834.ts
+#EXTINF:-1 tvg-name="KR_ROJAVA.TV" tvg-logo="" group-title="Kurdistan",KR_ROJAVA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/601.ts
+#EXTINF:-1 tvg-name="KR_Ronahi.TV" tvg-logo="" group-title="Kurdistan",KR_Ronahi.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/604.ts
+#EXTINF:-1 tvg-name="KR_SAHAR.KURDISH" tvg-logo="" group-title="Kurdistan",KR_SAHAR.KURDISH
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/605.ts
+#EXTINF:-1 tvg-name="KR_SPEDA.TV" tvg-logo="" group-title="Kurdistan",KR_SPEDA.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/606.ts
+#EXTINF:-1 tvg-name="KR_STERK.TV" tvg-logo="" group-title="Kurdistan",KR_STERK.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/607.ts
+#EXTINF:-1 tvg-name="KR_TIGRAI..TV" tvg-logo="" group-title="Kurdistan",KR_TIGRAI..TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/843.ts
+#EXTINF:-1 tvg-name="KR_TRT_KURDI" tvg-logo="" group-title="Kurdistan",KR_TRT_KURDI
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/844.ts
+#EXTINF:-1 tvg-name="KR_VIN.TV" tvg-logo="" group-title="Kurdistan",KR_VIN.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/608.ts
+#EXTINF:-1 tvg-name="KR_WAAR.SD" tvg-logo="" group-title="Kurdistan",KR_WAAR.SD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/168.ts
+#EXTINF:-1 tvg-name="KR_Zagros" tvg-logo="" group-title="Kurdistan",KR_Zagros
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/846.ts
+#EXTINF:-1 tvg-name="KR_ZAROK.TV" tvg-logo="" group-title="Kurdistan",KR_ZAROK.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/609.ts
+#EXTINF:-1 tvg-name="DV_---Divers---" tvg-logo="" group-title="Divers",DV_---Divers---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8033.ts
+#EXTINF:-1 tvg-name="DV_Amir.TV" tvg-logo="" group-title="Divers",DV_Amir.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/610.ts
+#EXTINF:-1 tvg-name="DV_Armenia.1.TV" tvg-logo="" group-title="Divers",DV_Armenia.1.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/612.ts
+#EXTINF:-1 tvg-name="DV_Armenia.TV" tvg-logo="" group-title="Divers",DV_Armenia.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/613.ts
+#EXTINF:-1 tvg-name="DV_Kentron" tvg-logo="" group-title="Divers",DV_Kentron
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/614.ts
+#EXTINF:-1 tvg-name="DV_Rudaw.HD" tvg-logo="" group-title="Divers",DV_Rudaw.HD
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/615.ts
+#EXTINF:-1 tvg-name="DV_SONY.SAB" tvg-logo="" group-title="Divers",DV_SONY.SAB
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/616.ts
+#EXTINF:-1 tvg-name="AF_---Africa.Channel---" tvg-logo="" group-title="Africa Channel",AF_---Africa.Channel---
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/8034.ts
+#EXTINF:-1 tvg-name="AF_Africa.1" tvg-logo="" group-title="Africa Channel",AF_Africa.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1024.ts
+#EXTINF:-1 tvg-name="AF_Africa.2" tvg-logo="" group-title="Africa Channel",AF_Africa.2
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1025.ts
+#EXTINF:-1 tvg-name="AF_Africa.3" tvg-logo="" group-title="Africa Channel",AF_Africa.3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1026.ts
+#EXTINF:-1 tvg-name="AF_Africa.4" tvg-logo="" group-title="Africa Channel",AF_Africa.4
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1027.ts
+#EXTINF:-1 tvg-name="AF_Africa.24" tvg-logo="" group-title="Africa Channel",AF_Africa.24
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/27.ts
+#EXTINF:-1 tvg-name="AF_EBC1" tvg-logo="" group-title="Africa Channel",AF_EBC1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/617.ts
+#EXTINF:-1 tvg-name="AF_entv" tvg-logo="" group-title="Africa Channel",AF_entv
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1014.ts
+#EXTINF:-1 tvg-name="AF_ESTV" tvg-logo="" group-title="Africa Channel",AF_ESTV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1005.ts
+#EXTINF:-1 tvg-name="AF_etiopia3" tvg-logo="" group-title="Africa Channel",AF_etiopia3
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/811.ts
+#EXTINF:-1 tvg-name="AF_etv" tvg-logo="" group-title="Africa Channel",AF_etv
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/812.ts
+#EXTINF:-1 tvg-name="AF_oromia" tvg-logo="" group-title="Africa Channel",AF_oromia
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/833.ts
+#EXTINF:-1 tvg-name="AF_ORTB" tvg-logo="" group-title="Africa Channel",AF_ORTB
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1036.ts
+#EXTINF:-1 tvg-name="AF_ortm" tvg-logo="" group-title="Africa Channel",AF_ortm
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1019.ts
+#EXTINF:-1 tvg-name="AF_Royal.Somali" tvg-logo="" group-title="Africa Channel",AF_Royal.Somali
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1002.ts
+#EXTINF:-1 tvg-name="AF_RTI.1" tvg-logo="" group-title="Africa Channel",AF_RTI.1
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/618.ts
+#EXTINF:-1 tvg-name="AF_RTS1.Senegal" tvg-logo="" group-title="Africa Channel",AF_RTS1.Senegal
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1021.ts
+#EXTINF:-1 tvg-name="AF_RTVGE" tvg-logo="" group-title="Africa Channel",AF_RTVGE
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/842.ts
+#EXTINF:-1 tvg-name="AF_Somali.Cable" tvg-logo="" group-title="Africa Channel",AF_Somali.Cable
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1009.ts
+#EXTINF:-1 tvg-name="AF_Somali.national" tvg-logo="" group-title="Africa Channel",AF_Somali.national
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1004.ts
+#EXTINF:-1 tvg-name="AF_Tchad.TV" tvg-logo="" group-title="Africa Channel",AF_Tchad.TV
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/440.ts
+#EXTINF:-1 tvg-name="AF_tfm" tvg-logo="" group-title="Africa Channel",AF_tfm
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1020.ts
+#EXTINF:-1 tvg-name="AF_tpangola" tvg-logo="" group-title="Africa Channel",AF_tpangola
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1018.ts
+#EXTINF:-1 tvg-name="AF_TV.Congo" tvg-logo="" group-title="Africa Channel",AF_TV.Congo
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/619.ts
+#EXTINF:-1 tvg-name="AF_Universal.Somal" tvg-logo="" group-title="Africa Channel",AF_Universal.Somal
+http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/1003.ts
+#EXTINF:-1 tvg-name="VD_---VOD---" tvg-logo="" group-title="VOD Action",VD_---VOD---
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/8035.mp4
+#EXTINF:-1 tvg-name="VD_Action.01" tvg-logo="" group-title="VOD Action",VD_Action.01
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9001.mp4
+#EXTINF:-1 tvg-name="VD_Action.02" tvg-logo="" group-title="VOD Action",VD_Action.02
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9002.mp4
+#EXTINF:-1 tvg-name="VD_Action.03" tvg-logo="" group-title="VOD Action",VD_Action.03
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9003.mp4
+#EXTINF:-1 tvg-name="VD_Action.04" tvg-logo="" group-title="VOD Action",VD_Action.04
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9004.mp4
+#EXTINF:-1 tvg-name="VD_Action.05" tvg-logo="" group-title="VOD Action",VD_Action.05
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9005.mp4
+#EXTINF:-1 tvg-name="VD_Action.06" tvg-logo="" group-title="VOD Action",VD_Action.06
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9006.mp4
+#EXTINF:-1 tvg-name="VD_Action.07" tvg-logo="" group-title="VOD Action",VD_Action.07
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9007.mp4
+#EXTINF:-1 tvg-name="VD_Action.08" tvg-logo="" group-title="VOD Action",VD_Action.08
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9008.mp4
+#EXTINF:-1 tvg-name="VD_Action.09" tvg-logo="" group-title="VOD Action",VD_Action.09
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9009.mp4
+#EXTINF:-1 tvg-name="VD_Action.10" tvg-logo="" group-title="VOD Action",VD_Action.10
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9010.mp4
+#EXTINF:-1 tvg-name="VD_Action.11" tvg-logo="" group-title="VOD Action",VD_Action.11
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9011.mp4
+#EXTINF:-1 tvg-name="VD_Action.12" tvg-logo="" group-title="VOD Action",VD_Action.12
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9012.mp4
+#EXTINF:-1 tvg-name="VD_Action.13" tvg-logo="" group-title="VOD Action",VD_Action.13
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9013.mp4
+#EXTINF:-1 tvg-name="VD_Action.14" tvg-logo="" group-title="VOD Action",VD_Action.14
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9014.mp4
+#EXTINF:-1 tvg-name="VD_Action.15" tvg-logo="" group-title="VOD Action",VD_Action.15
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9015.mp4
+#EXTINF:-1 tvg-name="VD_Action.16" tvg-logo="" group-title="VOD Action",VD_Action.16
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9016.mp4
+#EXTINF:-1 tvg-name="VD_Action.17" tvg-logo="" group-title="VOD Action",VD_Action.17
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9017.mp4
+#EXTINF:-1 tvg-name="VD_Action.18" tvg-logo="" group-title="VOD Action",VD_Action.18
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9018.mp4
+#EXTINF:-1 tvg-name="VD_Action.19" tvg-logo="" group-title="VOD Action",VD_Action.19
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9019.mp4
+#EXTINF:-1 tvg-name="VD_Action.20" tvg-logo="" group-title="VOD Action",VD_Action.20
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9020.mp4
+#EXTINF:-1 tvg-name="VD_Action.21" tvg-logo="" group-title="VOD Action",VD_Action.21
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9101.mp4
+#EXTINF:-1 tvg-name="VD_Action.22" tvg-logo="" group-title="VOD Action",VD_Action.22
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9102.mp4
+#EXTINF:-1 tvg-name="VD_Action.23" tvg-logo="" group-title="VOD Action",VD_Action.23
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9103.mp4
+#EXTINF:-1 tvg-name="VD_Action.24" tvg-logo="" group-title="VOD Action",VD_Action.24
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9104.mp4
+#EXTINF:-1 tvg-name="VD_Action.25" tvg-logo="" group-title="VOD Action",VD_Action.25
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9105.mp4
+#EXTINF:-1 tvg-name="VD_Action.26" tvg-logo="" group-title="VOD Action",VD_Action.26
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9106.mp4
+#EXTINF:-1 tvg-name="VD_Action.27" tvg-logo="" group-title="VOD Action",VD_Action.27
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9107.mp4
+#EXTINF:-1 tvg-name="VD_Action.28" tvg-logo="" group-title="VOD Action",VD_Action.28
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9108.mp4
+#EXTINF:-1 tvg-name="VD_Action.29" tvg-logo="" group-title="VOD Action",VD_Action.29
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9109.mp4
+#EXTINF:-1 tvg-name="VD_Action.30" tvg-logo="" group-title="VOD Action",VD_Action.30
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9110.mp4
+#EXTINF:-1 tvg-name="VD_Action.31" tvg-logo="" group-title="VOD Action",VD_Action.31
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9111.mp4
+#EXTINF:-1 tvg-name="VD_Action.32" tvg-logo="" group-title="VOD Action",VD_Action.32
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9112.mp4
+#EXTINF:-1 tvg-name="VD_Action.33" tvg-logo="" group-title="VOD Action",VD_Action.33
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9113.mp4
+#EXTINF:-1 tvg-name="VD_Action.34" tvg-logo="" group-title="VOD Action",VD_Action.34
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9114.mp4
+#EXTINF:-1 tvg-name="VD_Action.35" tvg-logo="" group-title="VOD Action",VD_Action.35
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9115.mp4
+#EXTINF:-1 tvg-name="VD_Action.36" tvg-logo="" group-title="VOD Action",VD_Action.36
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9116.mp4
+#EXTINF:-1 tvg-name="VD_Action.37" tvg-logo="" group-title="VOD Action",VD_Action.37
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9117.mp4
+#EXTINF:-1 tvg-name="VD_Action.38" tvg-logo="" group-title="VOD Action",VD_Action.38
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9118.mp4
+#EXTINF:-1 tvg-name="VD_Action.39" tvg-logo="" group-title="VOD Action",VD_Action.39
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9119.mp4
+#EXTINF:-1 tvg-name="VD_Action.40" tvg-logo="" group-title="VOD Action",VD_Action.40
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9120.mp4
+#EXTINF:-1 tvg-name="VD_Action.41" tvg-logo="" group-title="VOD Action",VD_Action.41
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9121.mp4
+#EXTINF:-1 tvg-name="VD_Action.42" tvg-logo="" group-title="VOD Action",VD_Action.42
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9122.mp4
+#EXTINF:-1 tvg-name="VD_Action.43" tvg-logo="" group-title="VOD Action",VD_Action.43
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9123.mp4
+#EXTINF:-1 tvg-name="VD_Action.44" tvg-logo="" group-title="VOD Action",VD_Action.44
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9124.mp4
+#EXTINF:-1 tvg-name="VD_Action.45" tvg-logo="" group-title="VOD Action",VD_Action.45
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9125.mp4
+#EXTINF:-1 tvg-name="VD_Action.46" tvg-logo="" group-title="VOD Action",VD_Action.46
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9126.mp4
+#EXTINF:-1 tvg-name="VD_Action.47" tvg-logo="" group-title="VOD Action",VD_Action.47
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9127.mp4
+#EXTINF:-1 tvg-name="VD_Action.48" tvg-logo="" group-title="VOD Action",VD_Action.48
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9128.mp4
+#EXTINF:-1 tvg-name="VD_Action.49" tvg-logo="" group-title="VOD Action",VD_Action.49
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9129.mp4
+#EXTINF:-1 tvg-name="VD_Action.50" tvg-logo="" group-title="VOD Action",VD_Action.50
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9130.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.01" tvg-logo="" group-title="VOD Horreur",VD_Horreur.01
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9021.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.02" tvg-logo="" group-title="VOD Horreur",VD_Horreur.02
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9022.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.03" tvg-logo="" group-title="VOD Horreur",VD_Horreur.03
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9023.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.04" tvg-logo="" group-title="VOD Horreur",VD_Horreur.04
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9024.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.05" tvg-logo="" group-title="VOD Horreur",VD_Horreur.05
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9025.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.06" tvg-logo="" group-title="VOD Horreur",VD_Horreur.06
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9026.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.07" tvg-logo="" group-title="VOD Horreur",VD_Horreur.07
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9027.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.08" tvg-logo="" group-title="VOD Horreur",VD_Horreur.08
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9028.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.09" tvg-logo="" group-title="VOD Horreur",VD_Horreur.09
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9029.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.10" tvg-logo="" group-title="VOD Horreur",VD_Horreur.10
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9030.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.11" tvg-logo="" group-title="VOD Horreur",VD_Horreur.11
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9031.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.12" tvg-logo="" group-title="VOD Horreur",VD_Horreur.12
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9032.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.13" tvg-logo="" group-title="VOD Horreur",VD_Horreur.13
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9033.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.14" tvg-logo="" group-title="VOD Horreur",VD_Horreur.14
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9034.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.15" tvg-logo="" group-title="VOD Horreur",VD_Horreur.15
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9035.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.16" tvg-logo="" group-title="VOD Horreur",VD_Horreur.16
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9036.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.17" tvg-logo="" group-title="VOD Horreur",VD_Horreur.17
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9037.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.18" tvg-logo="" group-title="VOD Horreur",VD_Horreur.18
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9038.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.19" tvg-logo="" group-title="VOD Horreur",VD_Horreur.19
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9039.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.20" tvg-logo="" group-title="VOD Horreur",VD_Horreur.20
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9040.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.21" tvg-logo="" group-title="VOD Horreur",VD_Horreur.21
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9131.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.22" tvg-logo="" group-title="VOD Horreur",VD_Horreur.22
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9132.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.23" tvg-logo="" group-title="VOD Horreur",VD_Horreur.23
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9133.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.24" tvg-logo="" group-title="VOD Horreur",VD_Horreur.24
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9134.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.25" tvg-logo="" group-title="VOD Horreur",VD_Horreur.25
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9135.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.26" tvg-logo="" group-title="VOD Horreur",VD_Horreur.26
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9136.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.27" tvg-logo="" group-title="VOD Horreur",VD_Horreur.27
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9137.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.28" tvg-logo="" group-title="VOD Horreur",VD_Horreur.28
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9138.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.29" tvg-logo="" group-title="VOD Horreur",VD_Horreur.29
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9139.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.30" tvg-logo="" group-title="VOD Horreur",VD_Horreur.30
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9140.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.31" tvg-logo="" group-title="VOD Horreur",VD_Horreur.31
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9141.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.32" tvg-logo="" group-title="VOD Horreur",VD_Horreur.32
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9142.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.33" tvg-logo="" group-title="VOD Horreur",VD_Horreur.33
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9143.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.34" tvg-logo="" group-title="VOD Horreur",VD_Horreur.34
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9144.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.35" tvg-logo="" group-title="VOD Horreur",VD_Horreur.35
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9145.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.36" tvg-logo="" group-title="VOD Horreur",VD_Horreur.36
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9146.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.37" tvg-logo="" group-title="VOD Horreur",VD_Horreur.37
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9147.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.38" tvg-logo="" group-title="VOD Horreur",VD_Horreur.38
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9148.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.39" tvg-logo="" group-title="VOD Horreur",VD_Horreur.39
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9149.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.40" tvg-logo="" group-title="VOD Horreur",VD_Horreur.40
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9150.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.41" tvg-logo="" group-title="VOD Horreur",VD_Horreur.41
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9151.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.42" tvg-logo="" group-title="VOD Horreur",VD_Horreur.42
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9152.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.43" tvg-logo="" group-title="VOD Horreur",VD_Horreur.43
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9153.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.44" tvg-logo="" group-title="VOD Horreur",VD_Horreur.44
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9154.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.45" tvg-logo="" group-title="VOD Horreur",VD_Horreur.45
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9155.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.46" tvg-logo="" group-title="VOD Horreur",VD_Horreur.46
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9156.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.47" tvg-logo="" group-title="VOD Horreur",VD_Horreur.47
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9157.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.48" tvg-logo="" group-title="VOD Horreur",VD_Horreur.48
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9158.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.49" tvg-logo="" group-title="VOD Horreur",VD_Horreur.49
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9159.mp4
+#EXTINF:-1 tvg-name="VD_Horreur.50" tvg-logo="" group-title="VOD Horreur",VD_Horreur.50
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9160.mp4
+#EXTINF:-1 tvg-name="VD_Disney.01" tvg-logo="" group-title="VOD Disney",VD_Disney.01
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9041.mp4
+#EXTINF:-1 tvg-name="VD_Disney.02" tvg-logo="" group-title="VOD Disney",VD_Disney.02
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9042.mp4
+#EXTINF:-1 tvg-name="VD_Disney.03" tvg-logo="" group-title="VOD Disney",VD_Disney.03
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9043.mp4
+#EXTINF:-1 tvg-name="VD_Disney.04" tvg-logo="" group-title="VOD Disney",VD_Disney.04
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9044.mp4
+#EXTINF:-1 tvg-name="VD_Disney.05" tvg-logo="" group-title="VOD Disney",VD_Disney.05
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9045.mp4
+#EXTINF:-1 tvg-name="VD_Disney.06" tvg-logo="" group-title="VOD Disney",VD_Disney.06
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9046.mp4
+#EXTINF:-1 tvg-name="VD_Disney.07" tvg-logo="" group-title="VOD Disney",VD_Disney.07
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9047.mp4
+#EXTINF:-1 tvg-name="VD_Disney.08" tvg-logo="" group-title="VOD Disney",VD_Disney.08
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9048.mp4
+#EXTINF:-1 tvg-name="VD_Disney.09" tvg-logo="" group-title="VOD Disney",VD_Disney.09
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9049.mp4
+#EXTINF:-1 tvg-name="VD_Disney.10" tvg-logo="" group-title="VOD Disney",VD_Disney.10
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9050.mp4
+#EXTINF:-1 tvg-name="VD_Disney.11" tvg-logo="" group-title="VOD Disney",VD_Disney.11
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9051.mp4
+#EXTINF:-1 tvg-name="VD_Disney.12" tvg-logo="" group-title="VOD Disney",VD_Disney.12
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9052.mp4
+#EXTINF:-1 tvg-name="VD_Disney.13" tvg-logo="" group-title="VOD Disney",VD_Disney.13
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9053.mp4
+#EXTINF:-1 tvg-name="VD_Disney.14" tvg-logo="" group-title="VOD Disney",VD_Disney.14
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9054.mp4
+#EXTINF:-1 tvg-name="VD_Disney.15" tvg-logo="" group-title="VOD Disney",VD_Disney.15
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9055.mp4
+#EXTINF:-1 tvg-name="VD_Disney.16" tvg-logo="" group-title="VOD Disney",VD_Disney.16
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9056.mp4
+#EXTINF:-1 tvg-name="VD_Disney.17" tvg-logo="" group-title="VOD Disney",VD_Disney.17
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9057.mp4
+#EXTINF:-1 tvg-name="VD_Disney.18" tvg-logo="" group-title="VOD Disney",VD_Disney.18
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9058.mp4
+#EXTINF:-1 tvg-name="VD_Disney.19" tvg-logo="" group-title="VOD Disney",VD_Disney.19
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9059.mp4
+#EXTINF:-1 tvg-name="VD_Disney.20" tvg-logo="" group-title="VOD Disney",VD_Disney.20
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9060.mp4
+#EXTINF:-1 tvg-name="VD_Disney.21" tvg-logo="" group-title="VOD Disney",VD_Disney.21
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9161.mp4
+#EXTINF:-1 tvg-name="VD_Disney.22" tvg-logo="" group-title="VOD Disney",VD_Disney.22
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9162.mp4
+#EXTINF:-1 tvg-name="VD_Disney.23" tvg-logo="" group-title="VOD Disney",VD_Disney.23
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9163.mp4
+#EXTINF:-1 tvg-name="VD_Disney.24" tvg-logo="" group-title="VOD Disney",VD_Disney.24
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9164.mp4
+#EXTINF:-1 tvg-name="VD_Disney.25" tvg-logo="" group-title="VOD Disney",VD_Disney.25
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9165.mp4
+#EXTINF:-1 tvg-name="VD_Disney.26" tvg-logo="" group-title="VOD Disney",VD_Disney.26
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9166.mp4
+#EXTINF:-1 tvg-name="VD_Disney.27" tvg-logo="" group-title="VOD Disney",VD_Disney.27
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9167.mp4
+#EXTINF:-1 tvg-name="VD_Disney.28" tvg-logo="" group-title="VOD Disney",VD_Disney.28
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9168.mp4
+#EXTINF:-1 tvg-name="VD_Disney.29" tvg-logo="" group-title="VOD Disney",VD_Disney.29
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9169.mp4
+#EXTINF:-1 tvg-name="VD_Disney.30" tvg-logo="" group-title="VOD Disney",VD_Disney.30
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9170.mp4
+#EXTINF:-1 tvg-name="VD_Disney.31" tvg-logo="" group-title="VOD Disney",VD_Disney.31
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9171.mp4
+#EXTINF:-1 tvg-name="VD_Disney.32" tvg-logo="" group-title="VOD Disney",VD_Disney.32
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9172.mp4
+#EXTINF:-1 tvg-name="VD_Disney.33" tvg-logo="" group-title="VOD Disney",VD_Disney.33
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9173.mp4
+#EXTINF:-1 tvg-name="VD_Disney.34" tvg-logo="" group-title="VOD Disney",VD_Disney.34
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9174.mp4
+#EXTINF:-1 tvg-name="VD_Disney.35" tvg-logo="" group-title="VOD Disney",VD_Disney.35
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9175.mp4
+#EXTINF:-1 tvg-name="VD_Disney.36" tvg-logo="" group-title="VOD Disney",VD_Disney.36
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9176.mp4
+#EXTINF:-1 tvg-name="VD_Disney.37" tvg-logo="" group-title="VOD Disney",VD_Disney.37
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9177.mp4
+#EXTINF:-1 tvg-name="VD_Disney.38" tvg-logo="" group-title="VOD Disney",VD_Disney.38
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9178.mp4
+#EXTINF:-1 tvg-name="VD_Disney.39" tvg-logo="" group-title="VOD Disney",VD_Disney.39
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9179.mp4
+#EXTINF:-1 tvg-name="VD_Disney.40" tvg-logo="" group-title="VOD Disney",VD_Disney.40
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9180.mp4
+#EXTINF:-1 tvg-name="VD_Disney.41" tvg-logo="" group-title="VOD Disney",VD_Disney.41
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9181.mp4
+#EXTINF:-1 tvg-name="VD_Disney.42" tvg-logo="" group-title="VOD Disney",VD_Disney.42
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9182.mp4
+#EXTINF:-1 tvg-name="VD_Disney.43" tvg-logo="" group-title="VOD Disney",VD_Disney.43
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9183.mp4
+#EXTINF:-1 tvg-name="VD_Disney.44" tvg-logo="" group-title="VOD Disney",VD_Disney.44
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9184.mp4
+#EXTINF:-1 tvg-name="VD_Disney.45" tvg-logo="" group-title="VOD Disney",VD_Disney.45
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9185.mp4
+#EXTINF:-1 tvg-name="VD_Disney.46" tvg-logo="" group-title="VOD Disney",VD_Disney.46
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9186.mp4
+#EXTINF:-1 tvg-name="VD_Disney.47" tvg-logo="" group-title="VOD Disney",VD_Disney.47
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9187.mp4
+#EXTINF:-1 tvg-name="VD_Disney.48" tvg-logo="" group-title="VOD Disney",VD_Disney.48
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9188.mp4
+#EXTINF:-1 tvg-name="VD_Disney.49" tvg-logo="" group-title="VOD Disney",VD_Disney.49
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9189.mp4
+#EXTINF:-1 tvg-name="VD_Disney.50" tvg-logo="" group-title="VOD Disney",VD_Disney.50
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9190.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.01" tvg-logo="" group-title="VOD Arabe",VD_Arabe.01
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9061.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.02" tvg-logo="" group-title="VOD Arabe",VD_Arabe.02
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9062.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.03" tvg-logo="" group-title="VOD Arabe",VD_Arabe.03
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9063.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.04" tvg-logo="" group-title="VOD Arabe",VD_Arabe.04
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9064.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.05" tvg-logo="" group-title="VOD Arabe",VD_Arabe.05
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9065.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.06" tvg-logo="" group-title="VOD Arabe",VD_Arabe.06
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9066.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.07" tvg-logo="" group-title="VOD Arabe",VD_Arabe.07
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9067.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.08" tvg-logo="" group-title="VOD Arabe",VD_Arabe.08
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9068.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.09" tvg-logo="" group-title="VOD Arabe",VD_Arabe.09
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9069.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.10" tvg-logo="" group-title="VOD Arabe",VD_Arabe.10
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9070.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.11" tvg-logo="" group-title="VOD Arabe",VD_Arabe.11
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9071.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.12" tvg-logo="" group-title="VOD Arabe",VD_Arabe.12
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9072.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.13" tvg-logo="" group-title="VOD Arabe",VD_Arabe.13
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9073.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.14" tvg-logo="" group-title="VOD Arabe",VD_Arabe.14
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9074.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.15" tvg-logo="" group-title="VOD Arabe",VD_Arabe.15
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9075.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.16" tvg-logo="" group-title="VOD Arabe",VD_Arabe.16
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9076.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.17" tvg-logo="" group-title="VOD Arabe",VD_Arabe.17
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9077.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.18" tvg-logo="" group-title="VOD Arabe",VD_Arabe.18
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9078.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.19" tvg-logo="" group-title="VOD Arabe",VD_Arabe.19
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9079.mp4
+#EXTINF:-1 tvg-name="VD_Arabe.20" tvg-logo="" group-title="VOD Arabe",VD_Arabe.20
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9080.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.01" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.01
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9081.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.02" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.02
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9082.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.03" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.03
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9083.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.04" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.04
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9084.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.05" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.05
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9085.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.06" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.06
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9086.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.07" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.07
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9087.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.08" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.08
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9088.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.09" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.09
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9089.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.10" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.10
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9090.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.11" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.11
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9091.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.12" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.12
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9092.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.13" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.13
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9093.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.14" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.14
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9094.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.15" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.15
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9095.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.16" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.16
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9096.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.17" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.17
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9097.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.18" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.18
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9098.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.19" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.19
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9099.mp4
+#EXTINF:-1 tvg-name="VD_Theatre.Arabe.20" tvg-logo="" group-title="VOD Theatre Ar",VD_Theatre.Arabe.20
+http://proiptv.net:1234/movie/slimhadj/TBHzvugBN9/9100.mp4
